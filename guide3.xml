@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Space (México)">
+    <display-name lang="es">Canal Space (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20240309015500 -0600" stop="20240309032300 -0600" channel="Canal Space (México)">
+    <title lang="es">The devil inside</title>
+  </programme>
+  <programme start="20240309032300 -0600" stop="20240309045800 -0600" channel="Canal Space (México)">
+    <title lang="es">La hora del exorcismo</title>
+  </programme>
+  <programme start="20240309045800 -0600" stop="20240309062900 -0600" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240309062900 -0600" stop="20240309081900 -0600" channel="Canal Space (México)">
+    <title lang="es">Rendirse jamás 2</title>
+  </programme>
+  <programme start="20240309081900 -0600" stop="20240309101100 -0600" channel="Canal Space (México)">
+    <title lang="es">Rompiendo Las Reglas 3</title>
+  </programme>
+  <programme start="20240309101100 -0600" stop="20240309121300 -0600" channel="Canal Space (México)">
+    <title lang="es">El Especialista</title>
+  </programme>
+  <programme start="20240309121300 -0600" stop="20240309142200 -0600" channel="Canal Space (México)">
+    <title lang="es">Tango y Cash</title>
+  </programme>
+  <programme start="20240309142200 -0600" stop="20240309162900 -0600" channel="Canal Space (México)">
+    <title lang="es">El gran maestro 3</title>
+  </programme>
+  <programme start="20240309162900 -0600" stop="20240309183000 -0600" channel="Canal Space (México)">
+    <title lang="es">El gran maestro 4</title>
+  </programme>
+  <programme start="20240309183000 -0600" stop="20240309194500 -0600" channel="Canal Space (México)">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20240309194500 -0600" stop="20240309212600 -0600" channel="Canal Space (México)">
+    <title lang="es">La Torre Oscura</title>
+    <desc lang="es">Jake Chambers (Tom Taylor) es un joven aventurero de 11 años que descubre unas pistas sobre otra dimensión llamada Mundo Medio. Siguiendo el misterio, se transporta a está nueva dimensión donde encuentra al solitario caballero fronterizo Roland Deschain (Idris Elba) quien se dirige hacia la "Torre Oscura" que se encuentra en la dimensión Mundo Final y alcanzar este punto de conexión entre tiempo y espacio con la esperanza de salvar al Mundo Medio de la extinción.(n)</desc>
+  </programme>
+  <programme start="20240309212600 -0600" stop="20240309233200 -0600" channel="Canal Space (México)">
+    <title lang="es">Mortal kombat</title>
+  </programme>
+  <programme start="20240309233200 -0600" stop="20240310014200 -0600" channel="Canal Space (México)">
+    <title lang="es">John Q</title>
+  </programme>
+  <programme start="20240310014200 -0600" stop="20240310043300 -0600" channel="Canal Space (México)">
+    <title lang="es">Contagio</title>
+  </programme>
+  <programme start="20240310043300 -0600" stop="20240310070000 -0600" channel="Canal Space (México)">
+    <title lang="es">2012</title>
+    <desc lang="es">Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima.(n)</desc>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310085500 -0600" channel="Canal Space (México)">
+    <title lang="es">John Q</title>
+  </programme>
+  <programme start="20240310085500 -0600" stop="20240310105100 -0600" channel="Canal Space (México)">
+    <title lang="es">El gran maestro 3</title>
+  </programme>
+  <programme start="20240310105100 -0600" stop="20240310120600 -0600" channel="Canal Space (México)">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20240310120600 -0600" stop="20240310132100 -0600" channel="Canal Space (México)">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20240310132100 -0600" stop="20240310151900 -0600" channel="Canal Space (México)">
+    <title lang="es">El gran maestro 4</title>
+  </programme>
+  <programme start="20240310151900 -0600" stop="20240310172500 -0600" channel="Canal Space (México)">
+    <title lang="es">Mortal kombat</title>
+  </programme>
+  <programme start="20240310172500 -0600" stop="20240310191800 -0600" channel="Canal Space (México)">
+    <title lang="es">Rendirse jamás 2</title>
+  </programme>
+  <programme start="20240310191800 -0600" stop="20240310210700 -0600" channel="Canal Space (México)">
+    <title lang="es">Rompiendo Las Reglas 3</title>
+  </programme>
+  <programme start="20240310210700 -0600" stop="20240310230000 -0600" channel="Canal Space (México)">
+    <title lang="es">Cage Figther</title>
+  </programme>
+  <programme start="20240310230000 -0600" stop="20240311005700 -0600" channel="Canal Space (México)">
+    <title lang="es">Street fighter</title>
+  </programme>
+  <programme start="20240311005700 -0600" stop="20240311023800 -0600" channel="Canal Space (México)">
+    <title lang="es">Arena: Desafío mortal</title>
+  </programme>
+  <programme start="20240311230000 -0600" stop="20240312005700 -0600" channel="Canal Space (México)">
+    <title lang="es">Street fighter</title>
+  </programme>
+  <programme start="20240312005700 -0600" stop="20240312023800 -0600" channel="Canal Space (México)">
+    <title lang="es">Arena: Desafío mortal</title>
+  </programme>
+  <programme start="20240312023800 -0600" stop="20240312052200 -0600" channel="Canal Space (México)">
+    <title lang="es">2012</title>
+    <desc lang="es">Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima.(n)</desc>
+  </programme>
+  <programme start="20240312052200 -0600" stop="20240312070000 -0600" channel="Canal Space (México)">
+    <title lang="es">Chernobyl Diaries</title>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312084800 -0600" channel="Canal Space (México)">
+    <title lang="es">Hudson Hawk</title>
+  </programme>
+  <programme start="20240312084800 -0600" stop="20240312110500 -0600" channel="Canal Space (México)">
+    <title lang="es">Sherlock Holmes juego de</title>
+  </programme>
+  <programme start="20240312110500 -0600" stop="20240312130500 -0600" channel="Canal Space (México)">
+    <title lang="es">Terminator: La Salvación</title>
+    <desc lang="es">En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas.(n)</desc>
+  </programme>
+  <programme start="20240312130500 -0600" stop="20240312150700 -0600" channel="Canal Space (México)">
+    <title lang="es">El caza recompensas</title>
+  </programme>
+  <programme start="20240312150700 -0600" stop="20240312165500 -0600" channel="Canal Space (México)">
+    <title lang="es">Soy Leyenda</title>
+    <desc lang="es">Robert Neville (Will Smith) es un científico que ha sido incapaz de detener la expansión de un terrible virus que ha sido creado por el hombre y sin antídoto. Inmune, Neville es ahora el último hombre sobreviviente en lo que queda de la ciudad de Nueva York y quizás en el mundo. Por tres años, Neville ha enviado mensajes de radio tratando de encontrar algún otro sobreviviente que pueda encontrar en las afueras de la ciudad. Pero él no está solo. Victimas que han mutado debido a la plaga se encuentran en las sombras observando cada movimiento de Neville, esperando que cometa un error. Tal vez la última esperanza de la humanidad es encontrar el antídoto para curar el virus utilizando su propia sangre inmune. Pero él sabe que está rodeado por miles de estos mutantes y que el tiempo se le está acabando.(n)</desc>
+  </programme>
+  <programme start="20240312165500 -0600" stop="20240312184800 -0600" channel="Canal Space (México)">
+    <title lang="es">Cage Figther</title>
+  </programme>
+  <programme start="20240312184800 -0600" stop="20240312210200 -0600" channel="Canal Space (México)">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20240312210200 -0600" stop="20240312230000 -0600" channel="Canal Space (México)">
+    <title lang="es">Street fighter</title>
+  </programme>
+  <programme start="20240312230000 -0600" stop="20240313004200 -0600" channel="Canal Space (México)">
+    <title lang="es">Arena: Desafío mortal</title>
+  </programme>
+  <programme start="20240313004200 -0600" stop="20240313015100 -0600" channel="Canal Space (México)">
+    <title lang="es">The Head</title>
+  </programme>
+  <programme start="20240313015100 -0600" stop="20240313025100 -0600" channel="Canal Space (México)">
+    <title lang="es">The Head</title>
+  </programme>
+  <programme start="20240313025100 -0600" stop="20240313042000 -0600" channel="Canal Space (México)">
+    <title lang="es">Una llamada perdida</title>
+  </programme>
+  <programme start="20240313042000 -0600" stop="20240313070000 -0600" channel="Canal Space (México)">
+    <title lang="es">Operation Red Sea</title>
+  </programme>
+  <programme start="20240313070000 -0600" stop="20240313083900 -0600" channel="Canal Space (México)">
+    <title lang="es">Terminator: La Salvación</title>
+    <desc lang="es">En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas.(n)</desc>
+  </programme>
+  <programme start="20240313083900 -0600" stop="20240313103900 -0600" channel="Canal Space (México)">
+    <title lang="es">El caza recompensas</title>
+  </programme>
+  <programme start="20240313103900 -0600" stop="20240313130600 -0600" channel="Canal Space (México)">
+    <title lang="es">La máscara del Zorro</title>
+  </programme>
+  <programme start="20240313130600 -0600" stop="20240313152500 -0600" channel="Canal Space (México)">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20240313152500 -0600" stop="20240313173100 -0600" channel="Canal Space (México)">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+  <programme start="20240313173100 -0600" stop="20240313192600 -0600" channel="Canal Space (México)">
+    <title lang="es">De la cuna a la tumba</title>
+  </programme>
+  <programme start="20240313192600 -0600" stop="20240313211400 -0600" channel="Canal Space (México)">
+    <title lang="es">I Think We're Alone Now</title>
+  </programme>
+  <programme start="20240313211400 -0600" stop="20240313230000 -0600" channel="Canal Space (México)">
+    <title lang="es">Soy Leyenda</title>
+    <desc lang="es">Robert Neville (Will Smith) es un científico que ha sido incapaz de detener la expansión de un terrible virus que ha sido creado por el hombre y sin antídoto. Inmune, Neville es ahora el último hombre sobreviviente en lo que queda de la ciudad de Nueva York y quizás en el mundo. Por tres años, Neville ha enviado mensajes de radio tratando de encontrar algún otro sobreviviente que pueda encontrar en las afueras de la ciudad. Pero él no está solo. Victimas que han mutado debido a la plaga se encuentran en las sombras observando cada movimiento de Neville, esperando que cometa un error. Tal vez la última esperanza de la humanidad es encontrar el antídoto para curar el virus utilizando su propia sangre inmune. Pero él sabe que está rodeado por miles de estos mutantes y que el tiempo se le está acabando.(n)</desc>
+  </programme>
+  <programme start="20240313230000 -0600" stop="20240314004700 -0600" channel="Canal Space (México)">
+    <title lang="es">Monster Hunter La cacería</title>
+  </programme>
+  <programme start="20240314004700 -0600" stop="20240314015400 -0600" channel="Canal Space (México)">
+    <title lang="es">The Head</title>
+  </programme>
+  <programme start="20240314015400 -0600" stop="20240314041100 -0600" channel="Canal Space (México)">
+    <title lang="es">El caso de Richard Jewell</title>
+  </programme>
+  <programme start="20240314041100 -0600" stop="20240314060600 -0600" channel="Canal Space (México)">
+    <title lang="es">The Killer Inside Me</title>
+  </programme>
+  <programme start="20240314060600 -0600" stop="20240314070000 -0600" channel="Canal Space (México)">
+    <title lang="es">Terminator: La Salvación</title>
+    <desc lang="es">En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas.(n)</desc>
+  </programme>
+  <programme start="20240314070000 -0600" stop="20240314074300 -0600" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240314074300 -0600" stop="20240314093700 -0600" channel="Canal Space (México)">
+    <title lang="es">El escuadrón del crimen</title>
+  </programme>
+  <programme start="20240314093700 -0600" stop="20240314120400 -0600" channel="Canal Space (México)">
+    <title lang="es">La máscara del Zorro</title>
+  </programme>
+  <programme start="20240314120400 -0600" stop="20240314135400 -0600" channel="Canal Space (México)">
+    <title lang="es">XXX 2: Estado de emergencia</title>
+  </programme>
+  <programme start="20240314135400 -0600" stop="20240314154300 -0600" channel="Canal Space (México)">
+    <title lang="es">Una Pareja Explosiva</title>
+  </programme>
+  <programme start="20240314154300 -0600" stop="20240314172500 -0600" channel="Canal Space (México)">
+    <title lang="es">Una pareja explosiva 2</title>
+  </programme>
+  <programme start="20240314172500 -0600" stop="20240314190200 -0600" channel="Canal Space (México)">
+    <title lang="es">Una pareja explosiva 3</title>
+  </programme>
+  <programme start="20240314190200 -0600" stop="20240314205300 -0600" channel="Canal Space (México)">
+    <title lang="es">Monster Hunter La cacería</title>
+  </programme>
+  <programme start="20240314205300 -0600" stop="20240314230000 -0600" channel="Canal Space (México)">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+  <programme start="20240314230000 -0600" stop="20240315005700 -0600" channel="Canal Space (México)">
+    <title lang="es">De la cuna a la tumba</title>
+  </programme>
+  <programme start="20240315005700 -0600" stop="20240315020400 -0600" channel="Canal Space (México)">
+    <title lang="es">The Head</title>
+  </programme>
+  <programme start="20240315020400 -0600" stop="20240315040400 -0600" channel="Canal Space (México)">
+    <title lang="es">El libro de los secretos</title>
+  </programme>
+  <programme start="20240315040400 -0600" stop="20240315055700 -0600" channel="Canal Space (México)">
+    <title lang="es">La noche del demonio 4</title>
+  </programme>
+  <programme start="20240315055700 -0600" stop="20240315070000 -0600" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240315070000 -0600" stop="20240315075600 -0600" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240315075600 -0600" stop="20240315094300 -0600" channel="Canal Space (México)">
+    <title lang="es">XXX 2: Estado de emergencia</title>
+  </programme>
+  <programme start="20240315094300 -0600" stop="20240315115800 -0600" channel="Canal Space (México)">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20240315115800 -0600" stop="20240315135400 -0600" channel="Canal Space (México)">
+    <title lang="es">Los Ángeles de Charlie 2</title>
+  </programme>
+  <programme start="20240315135400 -0600" stop="20240315160100 -0600" channel="Canal Space (México)">
+    <title lang="es">John Q</title>
+  </programme>
+  <programme start="20240315160100 -0600" stop="20240315175100 -0600" channel="Canal Space (México)">
+    <title lang="es">Monster Hunter La cacería</title>
+  </programme>
+  <programme start="20240315175100 -0600" stop="20240315193800 -0600" channel="Canal Space (México)">
+    <title lang="es">Una Pareja Explosiva</title>
+  </programme>
+  <programme start="20240315193800 -0600" stop="20240315212200 -0600" channel="Canal Space (México)">
+    <title lang="es">Una pareja explosiva 2</title>
+  </programme>
+  <programme start="20240315212200 -0600" stop="20240315230000 -0600" channel="Canal Space (México)">
+    <title lang="es">Una pareja explosiva 3</title>
+  </programme>
+  <programme start="20240315230000 -0600" stop="20240316010400 -0600" channel="Canal Space (México)">
+    <title lang="es">El libro de los secretos</title>
+  </programme>
+  <programme start="20240316010400 -0600" stop="20240316021100 -0600" channel="Canal Space (México)">
+    <title lang="es">The Head</title>
+  </programme>
+  <programme start="20240316021100 -0600" stop="20240316040600 -0600" channel="Canal Space (México)">
+    <title lang="es">La noche del demonio 4</title>
+  </programme>
+</tv>
