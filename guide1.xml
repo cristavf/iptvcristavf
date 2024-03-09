@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Multimedios Plus">
+    <display-name lang="es">Canal Multimedios Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20240309003000 -0600" stop="20240309013000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20240309013000 -0600" stop="20240309020000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">China al minuto</title>
+  </programme>
+  <programme start="20240309020000 -0600" stop="20240309023000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20240309023000 -0600" stop="20240309030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240309030000 -0600" stop="20240309040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240309040000 -0600" stop="20240309050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240309050000 -0600" stop="20240309060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">TD Nocturno CDMX</title>
+  </programme>
+  <programme start="20240309060000 -0600" stop="20240309100000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario matutino FS CDMX</title>
+  </programme>
+  <programme start="20240309100000 -0600" stop="20240309110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20240309110000 -0600" stop="20240309120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Amazon Music News</title>
+  </programme>
+  <programme start="20240309120000 -0600" stop="20240309140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Vespertino FS CDMX</title>
+  </programme>
+  <programme start="20240309140000 -0600" stop="20240309150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20240309150000 -0600" stop="20240309160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">FAD Mty</title>
+  </programme>
+  <programme start="20240309160000 -0600" stop="20240309170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Especial de Homenajes</title>
+  </programme>
+  <programme start="20240309170000 -0600" stop="20240309180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240309180000 -0600" stop="20240309190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240309190000 -0600" stop="20240309220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno FS CDMX</title>
+  </programme>
+  <programme start="20240309220000 -0600" stop="20240310000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">TM Boxing</title>
+  </programme>
+  <programme start="20240310000000 -0600" stop="20240310010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20240310010000 -0600" stop="20240310031500 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20240310031500 -0600" stop="20240310050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20240310050000 -0600" stop="20240310070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">SNSerio</title>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario matutino FS CDMX</title>
+  </programme>
+  <programme start="20240310110000 -0600" stop="20240310120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La Jerga Deportiva</title>
+  </programme>
+  <programme start="20240310120000 -0600" stop="20240310130000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240310130000 -0600" stop="20240310150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Aficionados</title>
+  </programme>
+  <programme start="20240310150000 -0600" stop="20240310160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">PakTEMOciones</title>
+  </programme>
+  <programme start="20240310160000 -0600" stop="20240310170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240310170000 -0600" stop="20240310180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Orbital</title>
+  </programme>
+  <programme start="20240310180000 -0600" stop="20240310190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20240310190000 -0600" stop="20240310210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno FS CDMX</title>
+  </programme>
+  <programme start="20240310210000 -0600" stop="20240310230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Tercer milenio</title>
+  </programme>
+  <programme start="20240310230000 -0600" stop="20240311000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Pantallazo</title>
+  </programme>
+  <programme start="20240311000000 -0600" stop="20240311010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Hey familia!!</title>
+  </programme>
+  <programme start="20240311010000 -0600" stop="20240311030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Hey familia!!</title>
+  </programme>
+  <programme start="20240311030000 -0600" stop="20240311040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240311040000 -0600" stop="20240311050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Orbital</title>
+  </programme>
+  <programme start="20240311050000 -0600" stop="20240311060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Paketemociones</title>
+  </programme>
+  <programme start="20240311060000 -0600" stop="20240311070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Express</title>
+  </programme>
+  <programme start="20240311070000 -0600" stop="20240311080000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino Monterrey</title>
+  </programme>
+  <programme start="20240311080000 -0600" stop="20240311110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20240311110000 -0600" stop="20240311120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20240311120000 -0600" stop="20240311130000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi CDMX, Parte 2</title>
+  </programme>
+  <programme start="20240311130000 -0600" stop="20240311160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20240311160000 -0600" stop="20240311170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo CDMX</title>
+  </programme>
+  <programme start="20240311170000 -0600" stop="20240311180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La bola del 6 CDMX</title>
+  </programme>
+  <programme start="20240311180000 -0600" stop="20240311190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240311190000 -0600" stop="20240311200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240311200000 -0600" stop="20240311210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Chihuahua</title>
+  </programme>
+  <programme start="20240311210000 -0600" stop="20240311220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20240311220000 -0600" stop="20240311230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Rapiditas CDMX</title>
+  </programme>
+  <programme start="20240311230000 -0600" stop="20240311234500 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Milenio 22H</title>
+  </programme>
+  <programme start="20240311234500 -0600" stop="20240312030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20240312030000 -0600" stop="20240312040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240312040000 -0600" stop="20240312050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240312050000 -0600" stop="20240312060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240312060000 -0600" stop="20240312070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Express</title>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312080000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino Monterrey</title>
+  </programme>
+  <programme start="20240312080000 -0600" stop="20240312110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20240312110000 -0600" stop="20240312120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20240312120000 -0600" stop="20240312130000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi CDMX, Parte 2</title>
+  </programme>
+  <programme start="20240312130000 -0600" stop="20240312160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20240312160000 -0600" stop="20240312170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo CDMX</title>
+  </programme>
+  <programme start="20240312170000 -0600" stop="20240312180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La bola del 6 CDMX</title>
+  </programme>
+  <programme start="20240312180000 -0600" stop="20240312190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240312190000 -0600" stop="20240312200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240312200000 -0600" stop="20240312210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Chihuahua</title>
+  </programme>
+  <programme start="20240312210000 -0600" stop="20240312220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20240312220000 -0600" stop="20240312230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Rapiditas CDMX</title>
+  </programme>
+  <programme start="20240312230000 -0600" stop="20240312234500 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Milenio 22H</title>
+  </programme>
+  <programme start="20240312234500 -0600" stop="20240313030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es show</title>
+  </programme>
+  <programme start="20240313030000 -0600" stop="20240313040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240313040000 -0600" stop="20240313050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240313050000 -0600" stop="20240313060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240313060000 -0600" stop="20240313070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Express</title>
+  </programme>
+  <programme start="20240313070000 -0600" stop="20240313080000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino Monterrey</title>
+  </programme>
+  <programme start="20240313080000 -0600" stop="20240313110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20240313110000 -0600" stop="20240313120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20240313120000 -0600" stop="20240313130000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi CDMX, Parte 2</title>
+  </programme>
+  <programme start="20240313130000 -0600" stop="20240313160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20240313160000 -0600" stop="20240313170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo CDMX</title>
+  </programme>
+  <programme start="20240313170000 -0600" stop="20240313180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La bola del 6 CDMX</title>
+  </programme>
+  <programme start="20240313180000 -0600" stop="20240313190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240313190000 -0600" stop="20240313200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240313200000 -0600" stop="20240313210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Chihuahua</title>
+  </programme>
+  <programme start="20240313210000 -0600" stop="20240313220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20240313220000 -0600" stop="20240313230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Rapiditas CDMX</title>
+  </programme>
+  <programme start="20240313230000 -0600" stop="20240313234500 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Milenio 22H</title>
+  </programme>
+  <programme start="20240313234500 -0600" stop="20240314030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Hey familia!!</title>
+  </programme>
+  <programme start="20240314030000 -0600" stop="20240314040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo</title>
+  </programme>
+  <programme start="20240314040000 -0600" stop="20240314050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240314050000 -0600" stop="20240314060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240314060000 -0600" stop="20240314070000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Express</title>
+  </programme>
+  <programme start="20240314070000 -0600" stop="20240314080000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino Monterrey</title>
+  </programme>
+  <programme start="20240314080000 -0600" stop="20240314110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Matutino CDMX</title>
+  </programme>
+  <programme start="20240314110000 -0600" stop="20240314120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20240314120000 -0600" stop="20240314130000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Vivalavi CDMX, Parte 2</title>
+  </programme>
+  <programme start="20240314130000 -0600" stop="20240314160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
+  <programme start="20240314160000 -0600" stop="20240314170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Chismorreo CDMX</title>
+  </programme>
+  <programme start="20240314170000 -0600" stop="20240314180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">La bola del 6 CDMX</title>
+  </programme>
+  <programme start="20240314180000 -0600" stop="20240314190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Inaudito CDMX</title>
+  </programme>
+  <programme start="20240314190000 -0600" stop="20240314200000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 en Alerta (CDMX)</title>
+  </programme>
+  <programme start="20240314200000 -0600" stop="20240314210000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Chihuahua</title>
+  </programme>
+  <programme start="20240314210000 -0600" stop="20240314220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno CDMX</title>
+  </programme>
+  <programme start="20240314220000 -0600" stop="20240314230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Rapiditas CDMX</title>
+  </programme>
+  <programme start="20240314230000 -0600" stop="20240314234500 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Milenio 22H</title>
+  </programme>
+  <programme start="20240314234500 -0600" stop="20240315030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Menos serio que SNSerio</title>
+  </programme>
+</tv>
