@@ -1,0 +1,1692 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">Canal Cinemax (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History (México)">
+    <display-name lang="es">Canal History (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (Latinoamérica)">
+    <display-name lang="es">Canal History 2 (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT">
+    <display-name lang="es">Canal TNT</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicable (México)">
+    <display-name lang="es">Canal Unicable (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicable-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20240309003400 -0600" stop="20240309023500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20240309023500 -0600" stop="20240309040500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Operación Casino</title>
+  </programme>
+  <programme start="20240309040500 -0600" stop="20240309060000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Notas perfectas</title>
+  </programme>
+  <programme start="20240309060000 -0600" stop="20240309062800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240309062800 -0600" stop="20240309084500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Van Helsing El cazador de</title>
+  </programme>
+  <programme start="20240309084500 -0600" stop="20240309103000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hombres de Negro</title>
+    <desc lang="es">Sigue las hazañas de los agentes Kay (Tommy Lee Jones) y Jay (Will Smith), miembros de una organización ultra secreta establecida para monitorear la actividad alienígena en la Tierra. Los dos MiB se encuentran en medio de la trama mortal de un terrorista intergaláctico, Edgar (Vincent D'Onofrio) que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas.(n)</desc>
+  </programme>
+  <programme start="20240309103000 -0600" stop="20240309120700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hombres de Negro 2</title>
+    <desc lang="es">Los super agentes que luchan contra la escoria, Kay (Tommy Lee Jones) y Jay (Will Smith) – reguladores de todo lo que es extraño en el planeta tierra. Su última misión: ¡salvar al mundo de un desastre intergaláctico total! Cuando un monstruo renegado de Kylothian disfrazado de modelo de lencería amenaza la supervivencia de la raza humana, los chicos de la MIB reciben la llamada de emergencia. ¡Con su sede bajo ataque y el tiempo acabándose, los agentes Kay y Jay consiguen la ayuda de Frank el perro y una pandilla de gusanos de vida dura para ayudarlos a patear un trasero alienígena realmente sexy!(n)</desc>
+  </programme>
+  <programme start="20240309120700 -0600" stop="20240309140500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Gremlins 2</title>
+  </programme>
+  <programme start="20240309140500 -0600" stop="20240309163400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">12 Monos</title>
+  </programme>
+  <programme start="20240309163400 -0600" stop="20240309190300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los Federales</title>
+  </programme>
+  <programme start="20240309190300 -0600" stop="20240309210000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hombres de Negro</title>
+    <desc lang="es">Sigue las hazañas de los agentes Kay (Tommy Lee Jones) y Jay (Will Smith), miembros de una organización ultra secreta establecida para monitorear la actividad alienígena en la Tierra. Los dos MiB se encuentran en medio de la trama mortal de un terrorista intergaláctico, Edgar (Vincent D'Onofrio) que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas.(n)</desc>
+  </programme>
+  <programme start="20240309210000 -0600" stop="20240309224100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hombres de Negro 2</title>
+    <desc lang="es">Los super agentes que luchan contra la escoria, Kay (Tommy Lee Jones) y Jay (Will Smith) – reguladores de todo lo que es extraño en el planeta tierra. Su última misión: ¡salvar al mundo de un desastre intergaláctico total! Cuando un monstruo renegado de Kylothian disfrazado de modelo de lencería amenaza la supervivencia de la raza humana, los chicos de la MIB reciben la llamada de emergencia. ¡Con su sede bajo ataque y el tiempo acabándose, los agentes Kay y Jay consiguen la ayuda de Frank el perro y una pandilla de gusanos de vida dura para ayudarlos a patear un trasero alienígena realmente sexy!(n)</desc>
+  </programme>
+  <programme start="20240309224100 -0600" stop="20240310002900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Van Helsing El cazador de</title>
+  </programme>
+  <programme start="20240310002900 -0600" stop="20240310030100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Una historia violenta</title>
+  </programme>
+  <programme start="20240310030100 -0600" stop="20240310042400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La huida</title>
+  </programme>
+  <programme start="20240310042400 -0600" stop="20240310062400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Notas perfectas</title>
+  </programme>
+  <programme start="20240310062400 -0600" stop="20240310070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310081800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hank y Asha</title>
+  </programme>
+  <programme start="20240310081800 -0600" stop="20240310095800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los Croods</title>
+    <desc lang="es">Los croods son la primera familia del mundo que viven protegidos en una cueva hasta que un día un terrible terremoto la destruye y ellos se ven forzados a abandonarla y se aventuran a un nuevo lugar con criaturas fabulosas y paisajes espectaculares donde deberán encontrar una nueva cueva para vivir.(n)</desc>
+  </programme>
+  <programme start="20240310095800 -0600" stop="20240310115700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El cazador y la reina del</title>
+  </programme>
+  <programme start="20240310115700 -0600" stop="20240310141300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La Momia Regresa</title>
+  </programme>
+  <programme start="20240310141300 -0600" stop="20240310161500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un Monstruo Viene a Verme</title>
+    <desc lang="es">Conor (Lewis MacDougall) es un chico de 12 años común y corriente que siempre es acosado por sus compañeros de clase y su madre (Felicity Jones) padece una enfermedad mortal. Conor siempre ve un árbol a través de su ventana que se ha mantenido en pie por más de mil años. Una noche alguien lo visita, dándose cuenta que se trata del monstruo que siempre aparece en sus pesadillas. ¿Podrá este monstruo que cobro vida ayudar al chico?(n)</desc>
+  </programme>
+  <programme start="20240310161500 -0600" stop="20240310180700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Doctor Sueño</title>
+    <desc lang="es">Dan "Danny" Torrance (Ewan McGregor), 40 años después de su aterradora estadía en el Hotel Overlook en The Shining. Todavía irrevocablemente marcado por el trauma que sufrió cuando era niño en el Overlook, Dan Torrance ha luchado para encontrar algo de paz. Pero esa paz se rompe cuando se encuentra con Abra Stone (Kyliegh Curran), una adolescente valiente con su propio poderoso regalo extrasensorial, conocido como el "brillo". Reconociendo instintivamente que Dan comparte su poder, Abra lo buscó, desperada por su ayuda contra la despiada Rosa la del Sombrero (Rebecca Ferguson) y sus seguidores, El Nudo Verdadero, que se nutre del brillo de los inocentes en su búsqueda de la inmortalidad.Formando una alianza improbable, Dan y Abra participan en una brutal batalla de vida o Muerte Con rose. La inocencia de Abra y su intrépido brillo obligan a Dan a recurrir a sus propios poderes como nunca antes – enfrentándose de inmediato a sus miedos y despertando a los fantasmas del pasado.(n)</desc>
+  </programme>
+  <programme start="20240310180700 -0600" stop="20240310195300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La maldición de la llorona</title>
+  </programme>
+  <programme start="20240310195300 -0600" stop="20240310220000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El Conjuro</title>
+    <desc lang="es">"The Conjuring". Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) son dos investigadores de actividad paranormal que trabajan para ayudar a una familia que se encuentra aterrorizada por una presencia oscura en la casa de su granja.Forzados a enfrentarse a este ente poderoso, los Warren se ven a sí mismos atrapados en el caso más terrorífico de sus vidas.(n)</desc>
+  </programme>
+  <programme start="20240310220000 -0600" stop="20240311000000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La noche del demonio 2</title>
+  </programme>
+  <programme start="20240311000000 -0600" stop="20240311015400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Insidious</title>
+  </programme>
+  <programme start="20240311015400 -0600" stop="20240311032400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La Morgue</title>
+  </programme>
+  <programme start="20240311032400 -0600" stop="20240311051200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La noche del demonio 2</title>
+  </programme>
+  <programme start="20240311051200 -0600" stop="20240311070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Secretos de una Obsesión</title>
+  </programme>
+  <programme start="20240311070000 -0600" stop="20240311075400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240311075400 -0600" stop="20240311094300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Fin de Semana</title>
+  </programme>
+  <programme start="20240311094300 -0600" stop="20240311112600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Quemese después de leerse</title>
+  </programme>
+  <programme start="20240311112600 -0600" stop="20240311132100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un espía y medio</title>
+  </programme>
+  <programme start="20240311132100 -0600" stop="20240311145200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Ajuste de cuentas</title>
+  </programme>
+  <programme start="20240311145200 -0600" stop="20240311165300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Ladrona de Identidades</title>
+    <desc lang="es">Sandy Patterson (Jason Bateman) es un hombre de negocios que un día recibe una inesperada llamada confirmando su nombre y otros datos de identificación para luego darse cuenta que esta información que él mismo ha proporcionado están siendo utilizados por una ladrona de identidades llamada al igual que el Sandy (Melissa McCarthy). Tras darse cuenta de la situación, Patterson deja su esposa, hijos y su trabajo para literalmente llevar a la ladrona a la justicia de Colorado y limpiar su nombre.(n)</desc>
+  </programme>
+  <programme start="20240311165300 -0600" stop="20240311185500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Noche de Juegos</title>
+    <desc lang="es">Max (Jason Bateman) y Annie (Rachel McAdams), cuya noche de juego semanal en parejas se ve mejorada cuando el carismático hermano de Max, Brooks (Kyle Chandler), organiza una fiesta de asesinato misterioso, completa con falsos matones y falsos agentes federales. Es entonces cuando Brooks es secuestrado, todo es parte del juego… ¿verdad? Pero cuando los seis jugadores súper competitivos se disponen a resolver el caso y ganar, comienzan a descubrir que ni este "juego" – ni Brooks – son lo que parecen ser. En el transcurso de una noche caótica, los amigos se encuentran cada vez más sobre sus cabezas, ya que cada giro lleva a otra curva inesperada. Sin reglas, sin puntos y sin idea de quiénes son todos los jugadores, esto podría ser lo más divertido que jamás hayan tenido… o que se acabe el juego.(n)</desc>
+  </programme>
+  <programme start="20240311185500 -0600" stop="20240311205600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un espía y medio</title>
+  </programme>
+  <programme start="20240311205600 -0600" stop="20240311230000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El Tesoro del Amazonas</title>
+  </programme>
+  <programme start="20240311230000 -0600" stop="20240311235900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Antidisturbios</title>
+  </programme>
+  <programme start="20240311235900 -0600" stop="20240312015900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">American Pie 2</title>
+  </programme>
+  <programme start="20240312015900 -0600" stop="20240312035000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Quiero matar a mi jefe 2</title>
+  </programme>
+  <programme start="20240312035000 -0600" stop="20240312054500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Piña express</title>
+  </programme>
+  <programme start="20240312054500 -0600" stop="20240312070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312082100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El tren de la muerte</title>
+  </programme>
+  <programme start="20240312082100 -0600" stop="20240312103800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20240312103800 -0600" stop="20240312131900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Enemigos Públicos</title>
+    <desc lang="es">(Public Enemies) En los años de 1930 en la ciudad de Chicago, en los Estados Unidos, uno de los más notables asalta bancos, John Dillinger (Johnny Depp) ama tanto su trabajo y esto es lo que lo hace a él sentirse bien.Este delincuente ha huido de la ciudad con ningún tipo de miedo a las represalias que las autoridades tienen hacia él y su banda de delincuentes. Mientras el continua asaltando bancos y huyendo de la justicia con su banda de ladrones, el conoce a Billie Frechette (Marion Cotillard) y termina enamorándose de esta mujer que logra entrar en su corazón frio. Mientras él se enamora y empieza su romance con Billie un agente del FBI Mervin Purvis (Christian Bale) se hace cargo del caso de estos roba bancos y Purvis está obsesionado en capturar a Dillinger a toda costa y no descansará hasta capturarlo a él y su banda.(n)</desc>
+  </programme>
+  <programme start="20240312131900 -0600" stop="20240312150900 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Grandes Espías</title>
+    <desc lang="es">JJ (Dave Bautista), un insensible agente de la CIA, que ha sido degradado de categoría y se encuentra a meced de una inteligente niña de 9 años llamada Sophie (Chloe Coleman) luego de ser enviado a vigilar a su familia. A cambio de no revelar la identidad de JJ, Sophie lo convence de pasar tiempo juntos y de que le enseñe a ser una espía. A pesar de no estar de acuerdo, JJ descubre que no puede competir con el encanto e ingenio de Sophie.(n)</desc>
+  </programme>
+  <programme start="20240312150900 -0600" stop="20240312171800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El agente de C.I.P.O.L</title>
+  </programme>
+  <programme start="20240312171800 -0600" stop="20240312193200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Protegiendo al enemigo</title>
+  </programme>
+  <programme start="20240312193200 -0600" stop="20240312220000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20240312220000 -0600" stop="20240313004700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Enemigos Públicos</title>
+    <desc lang="es">(Public Enemies) En los años de 1930 en la ciudad de Chicago, en los Estados Unidos, uno de los más notables asalta bancos, John Dillinger (Johnny Depp) ama tanto su trabajo y esto es lo que lo hace a él sentirse bien.Este delincuente ha huido de la ciudad con ningún tipo de miedo a las represalias que las autoridades tienen hacia él y su banda de delincuentes. Mientras el continua asaltando bancos y huyendo de la justicia con su banda de ladrones, el conoce a Billie Frechette (Marion Cotillard) y termina enamorándose de esta mujer que logra entrar en su corazón frio. Mientras él se enamora y empieza su romance con Billie un agente del FBI Mervin Purvis (Christian Bale) se hace cargo del caso de estos roba bancos y Purvis está obsesionado en capturar a Dillinger a toda costa y no descansará hasta capturarlo a él y su banda.(n)</desc>
+  </programme>
+  <programme start="20240313004700 -0600" stop="20240313022000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La noche de la expiación</title>
+  </programme>
+  <programme start="20240313022000 -0600" stop="20240313041200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20240313041200 -0600" stop="20240313055200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La huida</title>
+  </programme>
+  <programme start="20240313055200 -0600" stop="20240313070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240313070000 -0600" stop="20240313081800 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hank y Asha</title>
+  </programme>
+  <programme start="20240313081800 -0600" stop="20240313102200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La dama en el agua</title>
+  </programme>
+  <programme start="20240313102200 -0600" stop="20240313130100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Los Juegos del Hambre</title>
+    <desc lang="es">Un futuro distópico, la ciudad totalitaria de Panem dividida en 12 distritos y la capital. Todos los años cada distrito llega a elegir a dos tributos, un hombre y una mujer. Cuando Katniss (Jennifer Lawrence) escucha que su hermana Primrose (Willows Shields) será elegida, se ofrece como tributo para los juegos.(n)</desc>
+  </programme>
+  <programme start="20240313130100 -0600" stop="20240313144400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El espanta tiburones</title>
+  </programme>
+  <programme start="20240313144400 -0600" stop="20240313162200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20240313162200 -0600" stop="20240313180600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La Razón de Estar Contigo</title>
+    <desc lang="es">Bailey (Josh Gad) nos narra una hermosa historia de cómo reencarnaba en diferentes razas de perros y cómo vivió con sus diferentes amos. Todo comienza con el pequeño Ethan (Bryce Gheisar), un niño que recibe como regalo a un cachorro llamado Bailey. Luego reencarna como una perra rescatista que convive con Al (Pooch Hall). Luego de otras vidas más con amos diferentes, reencarna donde todo comenzó, con su viejo amigo Ethan (Dennis Quaid).(n)</desc>
+  </programme>
+  <programme start="20240313180600 -0600" stop="20240313200600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Después de la Tierra</title>
+    <desc lang="es">Cypher (Will Smith) es un comandante que aprendió a vencer sus miedos para mantener a la raza humana y a su familia a salvo. Tras enterarse que Katai (Jaden Smith) no se graduó, decide que lo acompañe a una misión, pero mientras viajan en el espacio surge un desastre y se ven forzados a aterrizar en el planeta tierra, un lugar abandonado por los humanos.(n)</desc>
+  </programme>
+  <programme start="20240313200600 -0600" stop="20240313220000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Poseidon</title>
+  </programme>
+  <programme start="20240313220000 -0600" stop="20240313234700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">El día del fin del mundo</title>
+  </programme>
+  <programme start="20240313234700 -0600" stop="20240314020100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20240314020100 -0600" stop="20240314033500 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20240314033500 -0600" stop="20240314051100 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Nueva York Sin Salida</title>
+    <desc lang="es">Un agente policiaco de Nueva York, André Davis (Chadwick Boseman) ve la oportunidad de redimir su pasado cuando descubre que algunos de sus compañeros están implicados en una serie de asesinatos a otros policías, por lo que dará inicio a una persecución sin precedentes en la que, por primera vez en la historia de Manhattan, nadie podrá entrar ni salir de la isla ya que los veintiún puentes de la ciudad, túneles de metro y las salidas de navíos serán bloqueadas.(n)</desc>
+  </programme>
+  <programme start="20240314051100 -0600" stop="20240314070000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">¿Sólo amigos?</title>
+  </programme>
+  <programme start="20240314070000 -0600" stop="20240314081200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240314081200 -0600" stop="20240314100600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Tres son multitud</title>
+  </programme>
+  <programme start="20240314100600 -0600" stop="20240314121300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un cuento de invierno</title>
+  </programme>
+  <programme start="20240314121300 -0600" stop="20240314140400 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un Romance de Novela</title>
+  </programme>
+  <programme start="20240314140400 -0600" stop="20240314162700 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Gloria - La Película</title>
+    <desc lang="es">La biografía de la actriz y cantante Gloria Trevi (Sofía Espinosa), desde sus inicios cuando conoce al productor Sergio Andrade (Marco Pérez) incluyendo su fama inmediata hasta su caída.(n)</desc>
+  </programme>
+  <programme start="20240314162700 -0600" stop="20240314184600 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Definitivamente, Tal Vez</title>
+  </programme>
+  <programme start="20240314184600 -0600" stop="20240314205000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Sí señor</title>
+  </programme>
+  <programme start="20240314205000 -0600" stop="20240314230000 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Un lugar llamado Notting Hill</title>
+  </programme>
+  <programme start="20240314230000 -0600" stop="20240315011200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Cincuenta Sombras más Oscuras</title>
+    <desc lang="es">Anastasia Steele (Dakota Johnson) después de su rompimiento con Christian Grey (Jamie Dornan) ella decide retomar una carrera profesional en una editorial en Seattle. En una demostración de arte en Seattle encuentra a Christian y este todavía tiene domino en la mente de Anastasia y deciden retomar tórrida y sensual relación, Ana averiguará aún más del doloroso pasado de Christian, mientras tanto el peleará contra sus demonios internos. Anastasia deberá enfrentarse a la envida e ira de las mujeres que la precedieron, pero esta tendrá que tomar decisiones importantes para su vida.(n)</desc>
+  </programme>
+  <programme start="20240315011200 -0600" stop="20240315021200 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">True Blood</title>
+    <desc lang="es">Gracias a la invención de la sangre sintética creada por los científicos Japoneses, los vampiros han progresado de su legendaria monstruosidad a ciudadanos respetables en un abrir y cerrar de ojos. Y mientras los humanos han dejado de formar parte de su dieta, algunos vampiros aún no se han decidido a “salir del ataúd”. Líderes importantes del mundo han escogido de qué lado están pero un pequeño pueblo de Luisiana aún cuenta de estas antiguas historias.Una mesera local, Sookie Stackhouse (Anna Paquin), sabe lo que se sienten ellos. Sookie posee la “maldición” de poder leer el pensamiento de las personas, ella está a favor de la integración de los vampiros, especialmente cuando se trata de Bill Compton (Stephen Moyer), un apuesto vampiro de 173 años que vive en las carreteras. Pero al servicio de los menos virtuosos vampiros del grupo de Bill, Sookie es inmersa en una serie de catástrofes que pondrán a prueba su amor.(n)</desc>
+  </programme>
+  <programme start="20240315021200 -0600" stop="20240315043300 -0600" channel="Canal Cinemax (México)">
+    <title lang="es">Salvajes</title>
+  </programme>
+  <programme start="20240309002100 -0600" stop="20240309005100 -0600" channel="Canal History (México)">
+    <title lang="es">Ruta OVNI</title>
+  </programme>
+  <programme start="20240309005100 -0600" stop="20240309014200 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor precio de la historia</title>
+  </programme>
+  <programme start="20240309014200 -0600" stop="20240309020800 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309020800 -0600" stop="20240309025900 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240309025900 -0600" stop="20240309035000 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20240309035000 -0600" stop="20240309044100 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240309044100 -0600" stop="20240309050700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309050700 -0600" stop="20240309060000 -0600" channel="Canal History (México)">
+    <title lang="es">Extraterrestres</title>
+  </programme>
+  <programme start="20240309060000 -0600" stop="20240309064800 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240309064800 -0600" stop="20240309073500 -0600" channel="Canal History (México)">
+    <title lang="es">¿Qué salió mal?</title>
+  </programme>
+  <programme start="20240309073500 -0600" stop="20240309083600 -0600" channel="Canal History (México)">
+    <title lang="es">Mitos Los grandes misterios</title>
+  </programme>
+  <programme start="20240309083600 -0600" stop="20240309090000 -0600" channel="Canal History (México)">
+    <title lang="es">Solos Desafío de habilidades</title>
+  </programme>
+  <programme start="20240309090000 -0600" stop="20240309101100 -0600" channel="Canal History (México)">
+    <title lang="es">Solos</title>
+  </programme>
+  <programme start="20240309101100 -0600" stop="20240309110000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240309110000 -0600" stop="20240309112400 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309112400 -0600" stop="20240309114800 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309114800 -0600" stop="20240309121200 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309121200 -0600" stop="20240309123600 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309123600 -0600" stop="20240309130000 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309130000 -0600" stop="20240309132400 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309132400 -0600" stop="20240309141300 -0600" channel="Canal History (México)">
+    <title lang="es">El tesoro de la isla</title>
+  </programme>
+  <programme start="20240309141300 -0600" stop="20240309150300 -0600" channel="Canal History (México)">
+    <title lang="es">Encuentros cercanos Oceanía</title>
+  </programme>
+  <programme start="20240309150300 -0600" stop="20240309160000 -0600" channel="Canal History (México)">
+    <title lang="es">Contacto extraterrestre</title>
+  </programme>
+  <programme start="20240309160000 -0600" stop="20240309162500 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240309162500 -0600" stop="20240309165000 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240309165000 -0600" stop="20240309182500 -0600" channel="Canal History (México)">
+    <title lang="es">Atlantida revelada</title>
+  </programme>
+  <programme start="20240309182500 -0600" stop="20240309201300 -0600" channel="Canal History (México)">
+    <title lang="es">Fuga de Alcatraz</title>
+  </programme>
+  <programme start="20240309201300 -0600" stop="20240309215000 -0600" channel="Canal History (México)">
+    <title lang="es">Corea del Norte Secretos</title>
+  </programme>
+  <programme start="20240309215000 -0600" stop="20240309224300 -0600" channel="Canal History (México)">
+    <title lang="es">Maravillas Siniestras</title>
+  </programme>
+  <programme start="20240309224300 -0600" stop="20240309235000 -0600" channel="Canal History (México)">
+    <title lang="es">The chosen Los elegido</title>
+  </programme>
+  <programme start="20240309235000 -0600" stop="20240310003900 -0600" channel="Canal History (México)">
+    <title lang="es">The chosen Los elegido</title>
+  </programme>
+  <programme start="20240310003900 -0600" stop="20240310013300 -0600" channel="Canal History (México)">
+    <title lang="es">El Peregrino</title>
+  </programme>
+  <programme start="20240310013300 -0600" stop="20240310032400 -0600" channel="Canal History (México)">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20240310032400 -0600" stop="20240310041400 -0600" channel="Canal History (México)">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20240310041400 -0600" stop="20240310044300 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240310044300 -0600" stop="20240310051200 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240310051200 -0600" stop="20240310060700 -0600" channel="Canal History (México)">
+    <title lang="es">Enigmas de la historia</title>
+  </programme>
+  <programme start="20240310060700 -0600" stop="20240310070000 -0600" channel="Canal History (México)">
+    <title lang="es">Secreta vida sexual de Hitler</title>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310075200 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable Latinoamér</title>
+  </programme>
+  <programme start="20240310075200 -0600" stop="20240310084300 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240310084300 -0600" stop="20240310090900 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240310090900 -0600" stop="20240310093500 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240310093500 -0600" stop="20240310100100 -0600" channel="Canal History (México)">
+    <title lang="es">La evidencia está entre.</title>
+  </programme>
+  <programme start="20240310100100 -0600" stop="20240310102700 -0600" channel="Canal History (México)">
+    <title lang="es">La evidencia está entre.</title>
+  </programme>
+  <programme start="20240310102700 -0600" stop="20240310112100 -0600" channel="Canal History (México)">
+    <title lang="es">Mundos subterráneos</title>
+  </programme>
+  <programme start="20240310112100 -0600" stop="20240310121500 -0600" channel="Canal History (México)">
+    <title lang="es">Mundos subterráneos</title>
+  </programme>
+  <programme start="20240310121500 -0600" stop="20240310132000 -0600" channel="Canal History (México)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20240310132000 -0600" stop="20240310141100 -0600" channel="Canal History (México)">
+    <title lang="es">Grandes tesoros del mund</title>
+  </programme>
+  <programme start="20240310141100 -0600" stop="20240310150500 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable Latinoaméric</title>
+  </programme>
+  <programme start="20240310150500 -0600" stop="20240310155700 -0600" channel="Canal History (México)">
+    <title lang="es">Proyecto imposible</title>
+  </programme>
+  <programme start="20240310155700 -0600" stop="20240310165200 -0600" channel="Canal History (México)">
+    <title lang="es">Cosas extrañas de la historia</title>
+  </programme>
+  <programme start="20240310165200 -0600" stop="20240310174900 -0600" channel="Canal History (México)">
+    <title lang="es">Enigmas de la historia</title>
+  </programme>
+  <programme start="20240310174900 -0600" stop="20240310184100 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20240310184100 -0600" stop="20240310190700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240310190700 -0600" stop="20240310193300 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240310193300 -0600" stop="20240310202400 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240310202400 -0600" stop="20240310211800 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240310211800 -0600" stop="20240310221100 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240310221100 -0600" stop="20240310234700 -0600" channel="Canal History (México)">
+    <title lang="es">El precio de la historia en</title>
+  </programme>
+  <programme start="20240310234700 -0600" stop="20240311003900 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20240311003900 -0600" stop="20240311013000 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240311234700 -0600" stop="20240312003900 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor cazadores de tesoros</title>
+  </programme>
+  <programme start="20240312003900 -0600" stop="20240312013000 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240312013000 -0600" stop="20240312022000 -0600" channel="Canal History (México)">
+    <title lang="es">El tesoro de la isla</title>
+  </programme>
+  <programme start="20240312022000 -0600" stop="20240312031100 -0600" channel="Canal History (México)">
+    <title lang="es">Los Expedientes Secretos</title>
+  </programme>
+  <programme start="20240312031100 -0600" stop="20240312040100 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240312040100 -0600" stop="20240312045100 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240312045100 -0600" stop="20240312054400 -0600" channel="Canal History (México)">
+    <title lang="es">Nazis Expediciones Secretas</title>
+  </programme>
+  <programme start="20240312054400 -0600" stop="20240312063400 -0600" channel="Canal History (México)">
+    <title lang="es">Grandes tesoros del mund</title>
+  </programme>
+  <programme start="20240312063400 -0600" stop="20240312070000 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor precio de la historia</title>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312080200 -0600" channel="Canal History (México)">
+    <title lang="es">Mitos Los grandes misterios</title>
+  </programme>
+  <programme start="20240312080200 -0600" stop="20240312090500 -0600" channel="Canal History (México)">
+    <title lang="es">Mitos Los grandes misterios</title>
+  </programme>
+  <programme start="20240312090500 -0600" stop="20240312093000 -0600" channel="Canal History (México)">
+    <title lang="es">Derrochadores Ancestrale</title>
+  </programme>
+  <programme start="20240312093000 -0600" stop="20240312095500 -0600" channel="Canal History (México)">
+    <title lang="es">Derrochadores Ancestrale</title>
+  </programme>
+  <programme start="20240312095500 -0600" stop="20240312104500 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240312104500 -0600" stop="20240312113600 -0600" channel="Canal History (México)">
+    <title lang="es">El secreto de Skinwalker</title>
+  </programme>
+  <programme start="20240312113600 -0600" stop="20240312122700 -0600" channel="Canal History (México)">
+    <title lang="es">Restauraciones Secretas</title>
+  </programme>
+  <programme start="20240312122700 -0600" stop="20240312132600 -0600" channel="Canal History (México)">
+    <title lang="es">Enigmas de la historia</title>
+  </programme>
+  <programme start="20240312132600 -0600" stop="20240312141600 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240312141600 -0600" stop="20240312150600 -0600" channel="Canal History (México)">
+    <title lang="es">Grandes misterios</title>
+  </programme>
+  <programme start="20240312150600 -0600" stop="20240312155600 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano Invasi</title>
+  </programme>
+  <programme start="20240312155600 -0600" stop="20240312164600 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano Invasi</title>
+  </programme>
+  <programme start="20240312164600 -0600" stop="20240312173800 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20240312173800 -0600" stop="20240312183100 -0600" channel="Canal History (México)">
+    <title lang="es">Precio de la historia en.</title>
+  </programme>
+  <programme start="20240312183100 -0600" stop="20240312190300 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240312190300 -0600" stop="20240312193700 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240312193700 -0600" stop="20240312211700 -0600" channel="Canal History (México)">
+    <title lang="es">Montauk experimentos</title>
+  </programme>
+  <programme start="20240312211700 -0600" stop="20240312221300 -0600" channel="Canal History (México)">
+    <title lang="es">Encuentros cercanos Oceanía</title>
+  </programme>
+  <programme start="20240312221300 -0600" stop="20240312230500 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20240312230500 -0600" stop="20240312235700 -0600" channel="Canal History (México)">
+    <title lang="es">Más allá de Skinwalker</title>
+  </programme>
+  <programme start="20240312235700 -0600" stop="20240313004900 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240313004900 -0600" stop="20240313015100 -0600" channel="Canal History (México)">
+    <title lang="es">Mitos Los grandes misterios</title>
+  </programme>
+  <programme start="20240313015100 -0600" stop="20240313024100 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor precio de la historia</title>
+  </programme>
+  <programme start="20240313024100 -0600" stop="20240313030700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240313030700 -0600" stop="20240313035800 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240313035800 -0600" stop="20240313044900 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20240313044900 -0600" stop="20240313054000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240313054000 -0600" stop="20240313060600 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240313060600 -0600" stop="20240313070000 -0600" channel="Canal History (México)">
+    <title lang="es">Extraterrestres</title>
+  </programme>
+  <programme start="20240313070000 -0600" stop="20240313075100 -0600" channel="Canal History (México)">
+    <title lang="es">Extraterrestres Están entre</title>
+  </programme>
+  <programme start="20240313075100 -0600" stop="20240313084300 -0600" channel="Canal History (México)">
+    <title lang="es">Extraterrestres Están entre</title>
+  </programme>
+  <programme start="20240313084300 -0600" stop="20240313093200 -0600" channel="Canal History (México)">
+    <title lang="es">Reyes del dolor</title>
+  </programme>
+  <programme start="20240313093200 -0600" stop="20240313102000 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240313102000 -0600" stop="20240313110900 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable con William S</title>
+  </programme>
+  <programme start="20240313110900 -0600" stop="20240313115800 -0600" channel="Canal History (México)">
+    <title lang="es">Restauraciones Secretas</title>
+  </programme>
+  <programme start="20240313115800 -0600" stop="20240313122700 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240313122700 -0600" stop="20240313125600 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240313125600 -0600" stop="20240313134500 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240313134500 -0600" stop="20240313143700 -0600" channel="Canal History (México)">
+    <title lang="es">Encuentros cercanos Oceanía</title>
+  </programme>
+  <programme start="20240313143700 -0600" stop="20240313150200 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240313150200 -0600" stop="20240313155200 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240313155200 -0600" stop="20240313164200 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240313164200 -0600" stop="20240313173500 -0600" channel="Canal History (México)">
+    <title lang="es">Gigantes de la comida</title>
+  </programme>
+  <programme start="20240313173500 -0600" stop="20240313182700 -0600" channel="Canal History (México)">
+    <title lang="es">Triángulo de las Bermudas</title>
+  </programme>
+  <programme start="20240313182700 -0600" stop="20240313192600 -0600" channel="Canal History (México)">
+    <title lang="es">Enigmas de la historia</title>
+  </programme>
+  <programme start="20240313192600 -0600" stop="20240313201700 -0600" channel="Canal History (México)">
+    <title lang="es">Lo mejor precio de la historia</title>
+  </programme>
+  <programme start="20240313201700 -0600" stop="20240313210700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Qué salió mal?</title>
+  </programme>
+  <programme start="20240313210700 -0600" stop="20240313220000 -0600" channel="Canal History (México)">
+    <title lang="es">Gigantes de la ingeniería</title>
+  </programme>
+  <programme start="20240313220000 -0600" stop="20240313222500 -0600" channel="Canal History (México)">
+    <title lang="es">Una breve historia de...</title>
+  </programme>
+  <programme start="20240313222500 -0600" stop="20240313225000 -0600" channel="Canal History (México)">
+    <title lang="es">Una breve historia de...</title>
+  </programme>
+  <programme start="20240313225000 -0600" stop="20240313231600 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240313231600 -0600" stop="20240313234200 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240313234200 -0600" stop="20240314003700 -0600" channel="Canal History (México)">
+    <title lang="es">Mundos subterráneos</title>
+  </programme>
+  <programme start="20240314003700 -0600" stop="20240314010300 -0600" channel="Canal History (México)">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20240314010300 -0600" stop="20240314021900 -0600" channel="Canal History (México)">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20240314021900 -0600" stop="20240314024400 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314024400 -0600" stop="20240314030900 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314030900 -0600" stop="20240314035900 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240314035900 -0600" stop="20240314044900 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20240314044900 -0600" stop="20240314054000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240314054000 -0600" stop="20240314070000 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314070000 -0600" stop="20240314072600 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314072600 -0600" stop="20240314075100 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314075100 -0600" stop="20240314081700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314081700 -0600" stop="20240314110800 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240314110800 -0600" stop="20240314115900 -0600" channel="Canal History (México)">
+    <title lang="es">Restauraciones Secretas</title>
+  </programme>
+  <programme start="20240314115900 -0600" stop="20240314122900 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240314122900 -0600" stop="20240314125900 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240314125900 -0600" stop="20240314134900 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240314134900 -0600" stop="20240314150600 -0600" channel="Canal History (México)">
+    <title lang="es">Encuentros cercanos Oceanía</title>
+  </programme>
+  <programme start="20240314150600 -0600" stop="20240314155500 -0600" channel="Canal History (México)">
+    <title lang="es">La evidencia está entre.</title>
+  </programme>
+  <programme start="20240314155500 -0600" stop="20240314164400 -0600" channel="Canal History (México)">
+    <title lang="es">La evidencia está entre.</title>
+  </programme>
+  <programme start="20240314164400 -0600" stop="20240314173700 -0600" channel="Canal History (México)">
+    <title lang="es">¿Qué salió mal?</title>
+  </programme>
+  <programme start="20240314173700 -0600" stop="20240314183000 -0600" channel="Canal History (México)">
+    <title lang="es">Ovnis Proyectos</title>
+  </programme>
+  <programme start="20240314183000 -0600" stop="20240314225200 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240314225200 -0600" stop="20240315003900 -0600" channel="Canal History (México)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20240315003900 -0600" stop="20240315022500 -0600" channel="Canal History (México)">
+    <title lang="es">Secreta vida sexual de Hitler</title>
+  </programme>
+  <programme start="20240315022500 -0600" stop="20240315025000 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240315025000 -0600" stop="20240315031500 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240315031500 -0600" stop="20240315040500 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240315040500 -0600" stop="20240315045500 -0600" channel="Canal History (México)">
+    <title lang="es">Amos del pantano</title>
+  </programme>
+  <programme start="20240315045500 -0600" stop="20240315070000 -0600" channel="Canal History (México)">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20240315070000 -0600" stop="20240315075200 -0600" channel="Canal History (México)">
+    <title lang="es">Proyecto imposible</title>
+  </programme>
+  <programme start="20240315075200 -0600" stop="20240315084400 -0600" channel="Canal History (México)">
+    <title lang="es">Proyecto imposible</title>
+  </programme>
+  <programme start="20240315084400 -0600" stop="20240315093600 -0600" channel="Canal History (México)">
+    <title lang="es">Reyes del dolor</title>
+  </programme>
+  <programme start="20240315093600 -0600" stop="20240315111600 -0600" channel="Canal History (México)">
+    <title lang="es">El Precio de la Historia</title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.(n)</desc>
+  </programme>
+  <programme start="20240315111600 -0600" stop="20240315120600 -0600" channel="Canal History (México)">
+    <title lang="es">Restauraciones Secretas</title>
+  </programme>
+  <programme start="20240315120600 -0600" stop="20240315123600 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240315123600 -0600" stop="20240315130600 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos y misterios</title>
+  </programme>
+  <programme start="20240315130600 -0600" stop="20240315135600 -0600" channel="Canal History (México)">
+    <title lang="es">Alienígenas ancestrale</title>
+  </programme>
+  <programme start="20240315135600 -0600" stop="20240315153900 -0600" channel="Canal History (México)">
+    <title lang="es">Encuentros cercanos Oceanía</title>
+  </programme>
+  <programme start="20240315153900 -0600" stop="20240315172500 -0600" channel="Canal History (México)">
+    <title lang="es">Inexplicable Latinoaméri</title>
+  </programme>
+  <programme start="20240315172500 -0600" stop="20240315181700 -0600" channel="Canal History (México)">
+    <title lang="es">Momias de Nazca</title>
+  </programme>
+  <programme start="20240315181700 -0600" stop="20240315190900 -0600" channel="Canal History (México)">
+    <title lang="es">Momias de Nazca</title>
+  </programme>
+  <programme start="20240315190900 -0600" stop="20240315225000 -0600" channel="Canal History (México)">
+    <title lang="es">Secretos de la civilización</title>
+  </programme>
+  <programme start="20240315225000 -0600" stop="20240316003400 -0600" channel="Canal History (México)">
+    <title lang="es">Maravillas Siniestras</title>
+  </programme>
+  <programme start="20240316003400 -0600" stop="20240316021800 -0600" channel="Canal History (México)">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20240316021800 -0600" stop="20240316024300 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240316024300 -0600" stop="20240316030800 -0600" channel="Canal History (México)">
+    <title lang="es">¿Quién da má0</title>
+  </programme>
+  <programme start="20240309003600 -0600" stop="20240309013400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">War Gamers Mujeres en la 2da guerra</title>
+    <sub-title lang="es">La mente maestra</sub-title>
+  </programme>
+  <programme start="20240309013400 -0600" stop="20240309030600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">¿el último papa?</title>
+  </programme>
+  <programme start="20240309030600 -0600" stop="20240309040600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Los antiguos egipcios</sub-title>
+  </programme>
+  <programme start="20240309040600 -0600" stop="20240309050000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Mundos subterráneos</title>
+    <sub-title lang="es">Reino Unido EUA Moldavia</sub-title>
+  </programme>
+  <programme start="20240309050000 -0600" stop="20240309060000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">El juego de espiar la Guerra Fría</title>
+    <sub-title lang="es">Historias de la Guerra Fría</sub-title>
+  </programme>
+  <programme start="20240309060000 -0600" stop="20240309070000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240309070000 -0600" stop="20240309080000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240309080000 -0600" stop="20240309085200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">El Universo</title>
+    <sub-title lang="es">Presagios de doom</sub-title>
+  </programme>
+  <programme start="20240309085200 -0600" stop="20240309094800 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de la industria</title>
+    <sub-title lang="es">Muerte</sub-title>
+  </programme>
+  <programme start="20240309094800 -0600" stop="20240309104900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Los antiguos egipcios</sub-title>
+  </programme>
+  <programme start="20240309104900 -0600" stop="20240309114200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Mundos subterráneos</title>
+    <sub-title lang="es">Reino Unido EUA Moldavia</sub-title>
+  </programme>
+  <programme start="20240309114200 -0600" stop="20240309124100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Mujeres que hicieron historia</title>
+    <sub-title lang="es">Cleopatra</sub-title>
+  </programme>
+  <programme start="20240309124100 -0600" stop="20240309133900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">War Gamers Mujeres en la 2da guerra</title>
+    <sub-title lang="es">La mente maestra</sub-title>
+  </programme>
+  <programme start="20240309133900 -0600" stop="20240309144100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">El juego de espiar la Guerra Fría</title>
+    <sub-title lang="es">Historias de la Guerra Fría</sub-title>
+  </programme>
+  <programme start="20240309144100 -0600" stop="20240309150700 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Atentado de Oklahoma</sub-title>
+  </programme>
+  <programme start="20240309150700 -0600" stop="20240309160400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20240309160400 -0600" stop="20240309170500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Un día en...</title>
+    <sub-title lang="es">Un castillo de 1218</sub-title>
+  </programme>
+  <programme start="20240309170500 -0600" stop="20240309180700 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Pirámides ocultas de los aztecas</title>
+    <sub-title lang="es">Secretos de la ciudad fantasma</sub-title>
+  </programme>
+  <programme start="20240309180700 -0600" stop="20240309190100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">El nacimiento de los videojuegos</sub-title>
+  </programme>
+  <programme start="20240309190100 -0600" stop="20240309200200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Orgullo y vergüenza</sub-title>
+  </programme>
+  <programme start="20240309200200 -0600" stop="20240309210200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China caer</sub-title>
+  </programme>
+  <programme start="20240309210200 -0600" stop="20240309220300 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Una guerra tecnológica</sub-title>
+  </programme>
+  <programme start="20240309220300 -0600" stop="20240309230300 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Cuerda de equilibrio</sub-title>
+  </programme>
+  <programme start="20240309230300 -0600" stop="20240310000500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Celtas la historia jamás contada</title>
+    <sub-title lang="es">Comienzo de los celtas</sub-title>
+  </programme>
+  <programme start="20240310000500 -0600" stop="20240310002900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Asesinato de Lincoln</sub-title>
+  </programme>
+  <programme start="20240310002900 -0600" stop="20240310012500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Orgullo y vergüenza</sub-title>
+  </programme>
+  <programme start="20240310012500 -0600" stop="20240310035400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Atlantida revelada</title>
+  </programme>
+  <programme start="20240310035400 -0600" stop="20240310044200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">El nacimiento de los videojuegos</sub-title>
+  </programme>
+  <programme start="20240310044200 -0600" stop="20240310053500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Milagros decodificados</title>
+  </programme>
+  <programme start="20240310053500 -0600" stop="20240310060000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Desastre de Chernobyl</sub-title>
+  </programme>
+  <programme start="20240310060000 -0600" stop="20240310070000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Cuerda de equilibrio</sub-title>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310080000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240310080000 -0600" stop="20240310090000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240310090000 -0600" stop="20240310103400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Atlantida revelada</title>
+  </programme>
+  <programme start="20240310103400 -0600" stop="20240310113600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Un día en...</title>
+    <sub-title lang="es">Un castillo de 1218</sub-title>
+  </programme>
+  <programme start="20240310113600 -0600" stop="20240310123800 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Pirámides ocultas de los aztecas</title>
+    <sub-title lang="es">Secretos de la ciudad fantasma</sub-title>
+  </programme>
+  <programme start="20240310123800 -0600" stop="20240310133800 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Cuando los titanes chocan</title>
+    <sub-title lang="es">EE.UU. y China Orgullo y vergüenza</sub-title>
+  </programme>
+  <programme start="20240310133800 -0600" stop="20240310140400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Masacre del día de San Valentín</sub-title>
+  </programme>
+  <programme start="20240310140400 -0600" stop="20240310143100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">La muerte de Jesse James</sub-title>
+  </programme>
+  <programme start="20240310143100 -0600" stop="20240310160400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Atlantida revelada</title>
+  </programme>
+  <programme start="20240310160400 -0600" stop="20240310170300 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Milagros decodificados</title>
+    <sub-title lang="es">La hostia sangrante</sub-title>
+  </programme>
+  <programme start="20240310170300 -0600" stop="20240310180500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Un día en...</title>
+    <sub-title lang="es">Nueva York de 1882</sub-title>
+  </programme>
+  <programme start="20240310180500 -0600" stop="20240310190700 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Pirámides ocultas de los aztecas</title>
+    <sub-title lang="es">Pirámides de los muertos</sub-title>
+  </programme>
+  <programme start="20240310190700 -0600" stop="20240310200100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">Amos del universo juguetero</sub-title>
+  </programme>
+  <programme start="20240310200100 -0600" stop="20240310205900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la conquista española</sub-title>
+  </programme>
+  <programme start="20240310205900 -0600" stop="20240310220300 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la guerra de la independencia</sub-title>
+  </programme>
+  <programme start="20240310220300 -0600" stop="20240310230500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México iglesia versus estado</sub-title>
+  </programme>
+  <programme start="20240310230500 -0600" stop="20240311001000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la revolución mexicana</sub-title>
+  </programme>
+  <programme start="20240311001000 -0600" stop="20240311010600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">La antigua grecia minoicos micénicos y las ciudades de estado griegas</sub-title>
+  </programme>
+  <programme start="20240311230500 -0600" stop="20240312001000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la revolución mexicana</sub-title>
+  </programme>
+  <programme start="20240312001000 -0600" stop="20240312010600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">La antigua grecia minoicos micénicos y las ciudades de estado griegas</sub-title>
+  </programme>
+  <programme start="20240312010600 -0600" stop="20240312015900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la conquista española</sub-title>
+  </programme>
+  <programme start="20240312015900 -0600" stop="20240312025700 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la guerra de la independencia</sub-title>
+  </programme>
+  <programme start="20240312025700 -0600" stop="20240312035400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Pirámides ocultas de los aztecas</title>
+    <sub-title lang="es">Pirámides de los muertos</sub-title>
+  </programme>
+  <programme start="20240312035400 -0600" stop="20240312044200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">Amos del universo juguetero</sub-title>
+  </programme>
+  <programme start="20240312044200 -0600" stop="20240312053600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Milagros decodificados</title>
+    <sub-title lang="es">La hostia sangrante</sub-title>
+  </programme>
+  <programme start="20240312053600 -0600" stop="20240312060000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Desastre de Hindenburg</sub-title>
+  </programme>
+  <programme start="20240312060000 -0600" stop="20240312070000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la revolución mexicana</sub-title>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312080000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240312080000 -0600" stop="20240312090000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240312090000 -0600" stop="20240312100100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Un día en...</title>
+    <sub-title lang="es">Nueva York de 1882</sub-title>
+  </programme>
+  <programme start="20240312100100 -0600" stop="20240312110200 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Pirámides ocultas de los aztecas</title>
+    <sub-title lang="es">Pirámides de los muertos</sub-title>
+  </programme>
+  <programme start="20240312110200 -0600" stop="20240312115600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">Amos del universo juguetero</sub-title>
+  </programme>
+  <programme start="20240312115600 -0600" stop="20240312122400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Johnstown la inundación más mortal</sub-title>
+  </programme>
+  <programme start="20240312122400 -0600" stop="20240312132600 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México iglesia versus estado</sub-title>
+  </programme>
+  <programme start="20240312132600 -0600" stop="20240312150100 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">El ADN de Jesús la búsqueda</title>
+  </programme>
+  <programme start="20240312150100 -0600" stop="20240312160700 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">México la revolución mexicana</sub-title>
+  </programme>
+  <programme start="20240312160700 -0600" stop="20240312170400 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Mundos subterráneos</title>
+    <sub-title lang="es">Irlanda EUA Noruega</sub-title>
+  </programme>
+  <programme start="20240312170400 -0600" stop="20240312175900 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">El Universo</title>
+    <sub-title lang="es">Prediciendo el futuro</sub-title>
+  </programme>
+  <programme start="20240312175900 -0600" stop="20240312185500 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Gigantes de la industria</title>
+    <sub-title lang="es">Un nuevo contendor</sub-title>
+  </programme>
+  <programme start="20240312185500 -0600" stop="20240312200000 -0600" channel="Canal History 2 (Latinoamérica)">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">El Imperio romano</sub-title>
+  </programme>
+  <programme start="20240309001600 -0600" stop="20240309025300 -0600" channel="Canal TNT">
+    <title lang="es">13 horas: Los soldados secretos de Bengasi</title>
+  </programme>
+  <programme start="20240309025300 -0600" stop="20240309045600 -0600" channel="Canal TNT">
+    <title lang="es">Cazafantasmas</title>
+  </programme>
+  <programme start="20240309045600 -0600" stop="20240309053300 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240309053300 -0600" stop="20240309054900 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240309054900 -0600" stop="20240309060000 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240309060000 -0600" stop="20240309060100 -0600" channel="Canal TNT">
+    <title lang="es">TNT Buzz</title>
+  </programme>
+  <programme start="20240309060100 -0600" stop="20240309075600 -0600" channel="Canal TNT">
+    <title lang="es">Dos inútiles en patrulla</title>
+  </programme>
+  <programme start="20240309075600 -0600" stop="20240309094700 -0600" channel="Canal TNT">
+    <title lang="es">Una Pareja Explosiva</title>
+  </programme>
+  <programme start="20240309094700 -0600" stop="20240309103200 -0600" channel="Canal TNT">
+    <title lang="es">Champions Espectacular</title>
+    <sub-title lang="es">Champions Espectacular 2023-24</sub-title>
+  </programme>
+  <programme start="20240309103200 -0600" stop="20240309130900 -0600" channel="Canal TNT">
+    <title lang="es">Aquaman</title>
+    <desc lang="es">Una aventura llena de acción que abarca el vasto y espectacular mundo submarino de los siete mares, Arthur Curry (Jason Momoa), mitad humano y mitad atlanticense, y lo lleva al viaje de su vida – uno que no solo lo forzará a enfrentar quien es en realidad, sino a descubrir si es digno de quién es él, nacido para ser… un rey.(n)</desc>
+  </programme>
+  <programme start="20240309130900 -0600" stop="20240309152100 -0600" channel="Canal TNT">
+    <title lang="es">Spider-Man: Un nuevo universo</title>
+  </programme>
+  <programme start="20240309152100 -0600" stop="20240309185600 -0600" channel="Canal TNT">
+    <title lang="es">Milagros Inesperados</title>
+  </programme>
+  <programme start="20240309185600 -0600" stop="20240309210500 -0600" channel="Canal TNT">
+    <title lang="es">Charlie y la fábrica de chocolate</title>
+  </programme>
+  <programme start="20240309210500 -0600" stop="20240310000500 -0600" channel="Canal TNT">
+    <title lang="es">Dune</title>
+  </programme>
+  <programme start="20240310000500 -0600" stop="20240310014600 -0600" channel="Canal TNT">
+    <title lang="es">Un Lugar en Silencio</title>
+    <desc lang="es">Aquellos que han sobrevivido viven de acuerdo con una regla: nunca hagas ruido. Si no pueden oírte, no pueden cazarte.(n)</desc>
+  </programme>
+  <programme start="20240310014600 -0600" stop="20240310042200 -0600" channel="Canal TNT">
+    <title lang="es">Pelea de Maestros</title>
+    <desc lang="es">Andy Campbell (Charlie Day) es un maestro especialista en bromas pesadas y como siempre en el último día del año tiene pensado hacerlo una vez mas, pero las cosas no sadrán del todo bien cuando por accidente se mete con el duro y temido maestro Ron Strickland (Ice Cube), que desafía a Campbell a una pelea cuando se termine el año escolar.(n)</desc>
+  </programme>
+  <programme start="20240310042200 -0600" stop="20240310064800 -0600" channel="Canal TNT">
+    <title lang="es">El Vuelo</title>
+    <desc lang="es">En una tarde como cualquiera Whip (Denzel Washington), un aviador llega al aeropuerto para iniciarse a un nuevo vuelo sin saber lo que iba a ocurrir después. Cuando despega el avión este sufre un desperfecto mecánico y él decide que la única manera de salvar a la tripulación y a los pasajeros es hacer una maniobra arriesgada para luego poder hacer un aterrizaje forzoso. Tras el accidente aéreo, Whip despierta en un hospital sin saber que se había convertido en un héroe, pero él no sabe la sorpresa que le espera. El jefe de la aerolínea le presenta al abogado Hugh Lang (Don Cheadle) diciéndole que existe la posibilidad de que pueda enfrentar cargos debido a que los resultados del examen de sangre muestran indicios de alcohol y drogas. Ahora la libertad del aviador dependerá de él y su abogado.(n)</desc>
+  </programme>
+  <programme start="20240310064800 -0600" stop="20240310070000 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240310070000 -0600" stop="20240310084000 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240310084000 -0600" stop="20240310120200 -0600" channel="Canal TNT">
+    <title lang="es">Milagros Inesperados</title>
+  </programme>
+  <programme start="20240310120200 -0600" stop="20240310145600 -0600" channel="Canal TNT">
+    <title lang="es">Dune</title>
+  </programme>
+  <programme start="20240310145600 -0600" stop="20240310170000 -0600" channel="Canal TNT">
+    <title lang="es">Charlie y la fábrica de chocolate</title>
+  </programme>
+  <programme start="20240310170000 -0600" stop="20240310180000 -0600" channel="Canal TNT">
+    <title lang="es">Punto de encuentro TNT: Oscars®</title>
+  </programme>
+  <programme start="20240310180000 -0600" stop="20240310210000 -0600" channel="Canal TNT">
+    <title lang="es">The Oscars</title>
+    <desc lang="es">“The Academy Awards” la ceremonia de entrega de los premios Oscar de la academia, concedido en reconocimiento a la excelencia de los profesionales de la industria cinematográfica incluyendo directores, actores y escritores.(n)</desc>
+  </programme>
+  <programme start="20240310210000 -0600" stop="20240310231000 -0600" channel="Canal TNT">
+    <title lang="es">Liga de la Justicia</title>
+    <desc lang="es">Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas.(n)</desc>
+  </programme>
+  <programme start="20240310231000 -0600" stop="20240311014100 -0600" channel="Canal TNT">
+    <title lang="es">El Vuelo</title>
+    <desc lang="es">En una tarde como cualquiera Whip (Denzel Washington), un aviador llega al aeropuerto para iniciarse a un nuevo vuelo sin saber lo que iba a ocurrir después. Cuando despega el avión este sufre un desperfecto mecánico y él decide que la única manera de salvar a la tripulación y a los pasajeros es hacer una maniobra arriesgada para luego poder hacer un aterrizaje forzoso. Tras el accidente aéreo, Whip despierta en un hospital sin saber que se había convertido en un héroe, pero él no sabe la sorpresa que le espera. El jefe de la aerolínea le presenta al abogado Hugh Lang (Don Cheadle) diciéndole que existe la posibilidad de que pueda enfrentar cargos debido a que los resultados del examen de sangre muestran indicios de alcohol y drogas. Ahora la libertad del aviador dependerá de él y su abogado.(n)</desc>
+  </programme>
+  <programme start="20240311014100 -0600" stop="20240311040000 -0600" channel="Canal TNT">
+    <title lang="es">El contador</title>
+  </programme>
+  <programme start="20240311040000 -0600" stop="20240311053200 -0600" channel="Canal TNT">
+    <title lang="es">Anaconda 4: Rastro de sangre</title>
+  </programme>
+  <programme start="20240311053200 -0600" stop="20240311070000 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240311070000 -0600" stop="20240311085600 -0600" channel="Canal TNT">
+    <title lang="es">Lo que ellas quieren</title>
+  </programme>
+  <programme start="20240311085600 -0600" stop="20240311113300 -0600" channel="Canal TNT">
+    <title lang="es">Batman vs Superman: El Origen de la Justicia</title>
+    <desc lang="es">Temiendo que los actos de Superman (Henry Cavill) no sean castigados, Batman (Ben Affleck) carga contra Superman, mientras el mundo pelea con el tipo de héroe que el mundo en realidad necesita. Con Batman y Superman peleándose entre sí, una nueva amenaza llamada Doomsday, creada por Lex Luthor (Jesse Eisenberg) amenaza con destruir la humanidad. Ahora Batman y Superman deberán superar sus diferencias y unirse junto a la Mujer Maravilla (Gal Gadot) para detener la destrucción de Metrópolis ocasionada por Lex Luthor y Doomsday.(n)</desc>
+  </programme>
+  <programme start="20240311113300 -0600" stop="20240311150000 -0600" channel="Canal TNT">
+    <title lang="es">The Oscars</title>
+    <desc lang="es">“The Academy Awards” la ceremonia de entrega de los premios Oscar de la academia, concedido en reconocimiento a la excelencia de los profesionales de la industria cinematográfica incluyendo directores, actores y escritores.(n)</desc>
+  </programme>
+  <programme start="20240311150000 -0600" stop="20240311160000 -0600" channel="Canal TNT">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20240311160000 -0600" stop="20240311174600 -0600" channel="Canal TNT">
+    <title lang="es">Jane got a gun</title>
+  </programme>
+  <programme start="20240311174600 -0600" stop="20240311194700 -0600" channel="Canal TNT">
+    <title lang="es">Policias de repuesto</title>
+  </programme>
+  <programme start="20240311194700 -0600" stop="20240311215400 -0600" channel="Canal TNT">
+    <title lang="es">Invasión del Mundo: Batalla - Los Ángeles</title>
+    <desc lang="es">Durante años, se han documentado casos de avistamientos de ovnis en todo el mundo – Buenos Aires, Seúl, Francia, Alemania, China. Pero en 2011, lo que antes eran sólo avistamientos se convertirá en la más aterradora realidad cuando la Tierra es atacada por fuerzas desconocidas. Mientras la gente en todas partes observa como las grandes ciudades del mundo caen ante sus ojos, Los Ángeles se convierte en el último soporte para la humanidad en una batalla que nadie esperaba. Todo dependerá del sargento de Estado Mayor de la Marina Michael Nantz (Aaron Eckhart) y de su nuevo pelotón trazar una línea en la arena, mientras enfrentan a un enemigo diferente a cualquiera que hayan encontrado antes.(n)</desc>
+  </programme>
+  <programme start="20240311215400 -0600" stop="20240311215700 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240311215700 -0600" stop="20240312000800 -0600" channel="Canal TNT">
+    <title lang="es">Liga de la Justicia</title>
+    <desc lang="es">Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas.(n)</desc>
+  </programme>
+  <programme start="20240312000800 -0600" stop="20240312001100 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240312001100 -0600" stop="20240312015100 -0600" channel="Canal TNT">
+    <title lang="es">La entrega inmediata</title>
+  </programme>
+  <programme start="20240312015100 -0600" stop="20240312015400 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240312015400 -0600" stop="20240312040600 -0600" channel="Canal TNT">
+    <title lang="es">El contador</title>
+  </programme>
+  <programme start="20240312040600 -0600" stop="20240312054900 -0600" channel="Canal TNT">
+    <title lang="es">Resident Evil: El Huésped Maldito</title>
+    <desc lang="es">Algo podrido se está gestando bajo la meca industrial conocida como Ciudad Raccoon. Desconocida para sus millones de residentes, una enorme instalación subterránea de bioingeniería conocida como "La Colmena" ha desencadenado accidentalmente el letal y mutante Virus-T, matando a todos sus empleados. Para contener la fuga, la supercomputadora gobernante "La Reina Roja", ha sellado todas las entras y salidas. Ahora un equipo de élite de comandantes altamente entrenados incluyendo a Rain (Michelle Rodriguez), Alice (Milla Jovovich) y Matt (Eric Mabius) deben correr para penetrar a la "Colmena" para aislar el Virus-T antes de que consuma a la humanidad entera. Para hacerlo, deben superar las defensas mortales de la Reina Roja, enfrentarse a los empleados zombis come carne, luchar con perros mutantes asesinos y luchar contra "Cazador", una bestia salvaje genéticamente alterada cuya fuerza aumenta cada vez que se alimenta de sus víctimas asesinadas.(n)</desc>
+  </programme>
+  <programme start="20240312054900 -0600" stop="20240312070000 -0600" channel="Canal TNT">
+    <title lang="es">Resident Evil: Extinción</title>
+    <desc lang="es">Un convoy de sobrevivientes deambula por las ciudades buscando sobrevivientes. La encargada Claire (Ali Larter) junto a Carlos Olivera (Oded Fehr) y L.J. (Mike Epps) son los encargados de mantener a todos a salvo. Alice (Milla Jovovich) nota algo extraño en el cielo y cuando observa que unos cuervos están atacando a un grupo de sobrevivientes, cuando decide ayudarlos se da cuenta que uno de ellos es Carlos y decide unírseles al grupo junto a los nuevos sobrevivientes para tratar de eliminar el virus letal que amenaza a todos los humanos. La Corporación Umbrella espía el grupo de sobrevivientes y detecta la presencia de Alice y mandan un grupo para capturarla ya que ella es la llave para volver a tener el control del mundo.(n)</desc>
+  </programme>
+  <programme start="20240312070000 -0600" stop="20240312092100 -0600" channel="Canal TNT">
+    <title lang="es">Batman vs Superman: El Origen de la Justicia</title>
+    <desc lang="es">Temiendo que los actos de Superman (Henry Cavill) no sean castigados, Batman (Ben Affleck) carga contra Superman, mientras el mundo pelea con el tipo de héroe que el mundo en realidad necesita. Con Batman y Superman peleándose entre sí, una nueva amenaza llamada Doomsday, creada por Lex Luthor (Jesse Eisenberg) amenaza con destruir la humanidad. Ahora Batman y Superman deberán superar sus diferencias y unirse junto a la Mujer Maravilla (Gal Gadot) para detener la destrucción de Metrópolis ocasionada por Lex Luthor y Doomsday.(n)</desc>
+  </programme>
+  <programme start="20240312092100 -0600" stop="20240312092400 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240312092400 -0600" stop="20240312110600 -0600" channel="Canal TNT">
+    <title lang="es">Jane got a gun</title>
+  </programme>
+  <programme start="20240312110600 -0600" stop="20240312110900 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240312110900 -0600" stop="20240312133000 -0600" channel="Canal TNT">
+    <title lang="es">Lo que ellas quieren</title>
+  </programme>
+  <programme start="20240312133000 -0600" stop="20240312144500 -0600" channel="Canal TNT">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20240312144500 -0600" stop="20240312170000 -0600" channel="Canal TNT">
+    <title lang="es">Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20240312170000 -0600" stop="20240312173000 -0600" channel="Canal TNT">
+    <title lang="es">Lo Mejor de la Champions</title>
+  </programme>
+  <programme start="20240312173000 -0600" stop="20240312183000 -0600" channel="Canal TNT">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20240312183000 -0600" stop="20240312190000 -0600" channel="Canal TNT">
+    <title lang="es">Show de la Champions</title>
+    <sub-title lang="es">Show De La Champions 2023-24</sub-title>
+  </programme>
+  <programme start="20240312190000 -0600" stop="20240312190300 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240312190300 -0600" stop="20240312204100 -0600" channel="Canal TNT">
+    <title lang="es">La entrega inmediata</title>
+  </programme>
+  <programme start="20240312204100 -0600" stop="20240312223000 -0600" channel="Canal TNT">
+    <title lang="es">El maestro del dinero</title>
+  </programme>
+  <programme start="20240312223000 -0600" stop="20240313012400 -0600" channel="Canal TNT">
+    <title lang="es">2012</title>
+    <desc lang="es">Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima.(n)</desc>
+  </programme>
+  <programme start="20240313012400 -0600" stop="20240313030800 -0600" channel="Canal TNT">
+    <title lang="es">Resident Evil: El Huésped Maldito</title>
+    <desc lang="es">Algo podrido se está gestando bajo la meca industrial conocida como Ciudad Raccoon. Desconocida para sus millones de residentes, una enorme instalación subterránea de bioingeniería conocida como "La Colmena" ha desencadenado accidentalmente el letal y mutante Virus-T, matando a todos sus empleados. Para contener la fuga, la supercomputadora gobernante "La Reina Roja", ha sellado todas las entras y salidas. Ahora un equipo de élite de comandantes altamente entrenados incluyendo a Rain (Michelle Rodriguez), Alice (Milla Jovovich) y Matt (Eric Mabius) deben correr para penetrar a la "Colmena" para aislar el Virus-T antes de que consuma a la humanidad entera. Para hacerlo, deben superar las defensas mortales de la Reina Roja, enfrentarse a los empleados zombis come carne, luchar con perros mutantes asesinos y luchar contra "Cazador", una bestia salvaje genéticamente alterada cuya fuerza aumenta cada vez que se alimenta de sus víctimas asesinadas.(n)</desc>
+  </programme>
+  <programme start="20240313030800 -0600" stop="20240313044200 -0600" channel="Canal TNT">
+    <title lang="es">Resident Evil: Extinción</title>
+    <desc lang="es">Un convoy de sobrevivientes deambula por las ciudades buscando sobrevivientes. La encargada Claire (Ali Larter) junto a Carlos Olivera (Oded Fehr) y L.J. (Mike Epps) son los encargados de mantener a todos a salvo. Alice (Milla Jovovich) nota algo extraño en el cielo y cuando observa que unos cuervos están atacando a un grupo de sobrevivientes, cuando decide ayudarlos se da cuenta que uno de ellos es Carlos y decide unírseles al grupo junto a los nuevos sobrevivientes para tratar de eliminar el virus letal que amenaza a todos los humanos. La Corporación Umbrella espía el grupo de sobrevivientes y detecta la presencia de Alice y mandan un grupo para capturarla ya que ella es la llave para volver a tener el control del mundo.(n)</desc>
+  </programme>
+  <programme start="20240313044200 -0600" stop="20240313061400 -0600" channel="Canal TNT">
+    <title lang="es">Resident Evil 5: La Venganza</title>
+    <desc lang="es">Resident Evil 5: La Venganza (Resident Evil: Retribution) es la quinta película de la exitosa serie de video juegos, Resident Evil de capcom. En este episodio Alice (Milla Jovovich) despierta en el centro de operaciones más clandestinas de la corporación Umbrella. Esta vez Alice descubre mas sobre su misterioso pasado mientras va adentrándose en el complejo. Sin tener un lugar seguro donde refugiarse, Alice sigue cazando a todos aquellos que son responsables del brote epidémico; esto la lleva de Tokio a Nueva York, Washington D.C. y Moscú. Esta vez todo terminará en una revelación que dará a pensar nuevamente sobre todo lo que alguna vez creyó y ver si en realidad fue verdad.(n)</desc>
+  </programme>
+  <programme start="20240313061400 -0600" stop="20240313070000 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240313070000 -0600" stop="20240313083900 -0600" channel="Canal TNT">
+    <title lang="es">La boda de mi mejor amigo</title>
+  </programme>
+  <programme start="20240313083900 -0600" stop="20240313112700 -0600" channel="Canal TNT">
+    <title lang="es">2012</title>
+    <desc lang="es">Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima.(n)</desc>
+  </programme>
+  <programme start="20240313112700 -0600" stop="20240313113000 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240313113000 -0600" stop="20240313133000 -0600" channel="Canal TNT">
+    <title lang="es">Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20240313133000 -0600" stop="20240313144500 -0600" channel="Canal TNT">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20240313144500 -0600" stop="20240313170000 -0600" channel="Canal TNT">
+    <title lang="es">Fútbol UEFA Champions League</title>
+  </programme>
+  <programme start="20240313170000 -0600" stop="20240313173000 -0600" channel="Canal TNT">
+    <title lang="es">Lo Mejor de la Champions</title>
+  </programme>
+  <programme start="20240313173000 -0600" stop="20240313183000 -0600" channel="Canal TNT">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20240313183000 -0600" stop="20240313190000 -0600" channel="Canal TNT">
+    <title lang="es">Show de la Champions</title>
+    <sub-title lang="es">Show De La Champions 2023-24</sub-title>
+  </programme>
+  <programme start="20240313190000 -0600" stop="20240313211600 -0600" channel="Canal TNT">
+    <title lang="es">La Suma De Todos Los Miedos</title>
+  </programme>
+  <programme start="20240313211600 -0600" stop="20240313211900 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240313211900 -0600" stop="20240313231000 -0600" channel="Canal TNT">
+    <title lang="es">Hombres de Negro 3</title>
+    <desc lang="es">Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad.(n)</desc>
+  </programme>
+  <programme start="20240313231000 -0600" stop="20240314013000 -0600" channel="Canal TNT">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20240314013000 -0600" stop="20240314031000 -0600" channel="Canal TNT">
+    <title lang="es">Sleepless</title>
+  </programme>
+  <programme start="20240314031000 -0600" stop="20240314052000 -0600" channel="Canal TNT">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20240314052000 -0600" stop="20240314070000 -0600" channel="Canal TNT">
+    <title lang="es">Crank 2: Alto voltaje</title>
+  </programme>
+  <programme start="20240314070000 -0600" stop="20240314073600 -0600" channel="Canal TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20240314073600 -0600" stop="20240314090900 -0600" channel="Canal TNT">
+    <title lang="es">#FBF</title>
+  </programme>
+  <programme start="20240314090900 -0600" stop="20240314091200 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240314091200 -0600" stop="20240314112500 -0600" channel="Canal TNT">
+    <title lang="es">La nueva gran estafa</title>
+  </programme>
+  <programme start="20240314112500 -0600" stop="20240314130500 -0600" channel="Canal TNT">
+    <title lang="es">Sleepless</title>
+  </programme>
+  <programme start="20240314130500 -0600" stop="20240314150100 -0600" channel="Canal TNT">
+    <title lang="es">Te amaré por siempre</title>
+  </programme>
+  <programme start="20240314150100 -0600" stop="20240314150400 -0600" channel="Canal TNT">
+    <title lang="es">Recap Oscars 2024</title>
+  </programme>
+  <programme start="20240314150400 -0600" stop="20240314172200 -0600" channel="Canal TNT">
+    <title lang="es">La Suma De Todos Los Miedos</title>
+  </programme>
+  <programme start="20240314172200 -0600" stop="20240314191200 -0600" channel="Canal TNT">
+    <title lang="es">Hombres de Negro 3</title>
+    <desc lang="es">Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad.(n)</desc>
+  </programme>
+  <programme start="20240309001000 -0600" stop="20240309003500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240309003500 -0600" stop="20240309020000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240309020000 -0600" stop="20240309025500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240309025500 -0600" stop="20240309055000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20240309055000 -0600" stop="20240309065000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Con permiso</title>
+  </programme>
+  <programme start="20240309065000 -0600" stop="20240309082000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240309082000 -0600" stop="20240309095000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240309095000 -0600" stop="20240309115000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mirreyes vs Godínez</title>
+    <desc lang="es">Genaro (Daniel Tovar), un trabajador asalariado – un godín – líder que ha dedicado su máximo esfuerzo para crecer en el mundo laboral y ascender en Zapaterías Kuri. Cuando de pronto, se encuentra con Santi Kuri (Pablo Lyle), el hijo del dueño – un mirrey – que ahora trata de imponer su visión en la empresa y sacar a los "Godínez" del juego. Pero en este grupo, como sabemos, no se dan por vencidos tan fácilmente y pelearán con garras y dientes para quedarse en su posición que les ha costado llegar en la empresa.(n)</desc>
+  </programme>
+  <programme start="20240309115000 -0600" stop="20240309140000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20240309140000 -0600" stop="20240309180000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240309180000 -0600" stop="20240309203000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujeres Asesinas</title>
+  </programme>
+  <programme start="20240309203000 -0600" stop="20240309221000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240309221000 -0600" stop="20240309231000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Faisy nights</title>
+  </programme>
+  <programme start="20240309231000 -0600" stop="20240310001000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Montse &amp; Joe</title>
+  </programme>
+  <programme start="20240310001000 -0600" stop="20240310011000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20240310011000 -0600" stop="20240310031000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20240310031000 -0600" stop="20240310034000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240310034000 -0600" stop="20240310053500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20240310053500 -0600" stop="20240310083000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240310083000 -0600" stop="20240310100000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240310100000 -0600" stop="20240310113000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240310113000 -0600" stop="20240310123000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20240310123000 -0600" stop="20240310163000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240310163000 -0600" stop="20240310172500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Con permiso</title>
+  </programme>
+  <programme start="20240310172500 -0600" stop="20240310203000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Corrida de Toros
+En Vivo</title>
+  </programme>
+  <programme start="20240310203000 -0600" stop="20240310213000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+  <programme start="20240310213000 -0600" stop="20240311013000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240311013000 -0600" stop="20240311023000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">De noche ya se armó</title>
+  </programme>
+  <programme start="20240311023000 -0600" stop="20240311033000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20240311033000 -0600" stop="20240311043500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Esto ya es personal</title>
+  </programme>
+  <programme start="20240311043500 -0600" stop="20240311054000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Con permiso</title>
+  </programme>
+  <programme start="20240311054000 -0600" stop="20240311071000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240311071000 -0600" stop="20240311074000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240311074000 -0600" stop="20240311091000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240311091000 -0600" stop="20240311104000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240311104000 -0600" stop="20240311121000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Hicran</title>
+  </programme>
+  <programme start="20240311121000 -0600" stop="20240311135000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240311135000 -0600" stop="20240311152000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Destilando amor (inicia)</title>
+  </programme>
+  <programme start="20240311152000 -0600" stop="20240311161000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240311161000 -0600" stop="20240311170000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240311170000 -0600" stop="20240311183000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240311183000 -0600" stop="20240311200000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240311200000 -0600" stop="20240311210000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">¡Qué buena hora!</title>
+  </programme>
+  <programme start="20240311210000 -0600" stop="20240311223000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240311223000 -0600" stop="20240311233000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">De noche ya se armó</title>
+  </programme>
+  <programme start="20240311233000 -0600" stop="20240312011000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240312011000 -0600" stop="20240312014000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240312014000 -0600" stop="20240312023000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240312023000 -0600" stop="20240312033000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240312033000 -0600" stop="20240312043500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Esto ya es personal</title>
+  </programme>
+  <programme start="20240312043500 -0600" stop="20240312054000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">De noche ya se armó</title>
+  </programme>
+  <programme start="20240312054000 -0600" stop="20240312071000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240312071000 -0600" stop="20240312074000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240312074000 -0600" stop="20240312091000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240312091000 -0600" stop="20240312104000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240312104000 -0600" stop="20240312121000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Hicran</title>
+  </programme>
+  <programme start="20240312121000 -0600" stop="20240312135000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240312135000 -0600" stop="20240312152000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20240312152000 -0600" stop="20240312161000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240312161000 -0600" stop="20240312170000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240312170000 -0600" stop="20240312183000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240312183000 -0600" stop="20240312200000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240312200000 -0600" stop="20240312210000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">¡Qué buena hora!</title>
+  </programme>
+  <programme start="20240312210000 -0600" stop="20240312223000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240312223000 -0600" stop="20240312233000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Montse &amp; Joe</title>
+  </programme>
+  <programme start="20240312233000 -0600" stop="20240313011000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240313011000 -0600" stop="20240313014000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240313014000 -0600" stop="20240313023000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240313023000 -0600" stop="20240313033000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240313033000 -0600" stop="20240313043500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Esto ya es personal</title>
+  </programme>
+  <programme start="20240313043500 -0600" stop="20240313054000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Montse &amp; Joe</title>
+  </programme>
+  <programme start="20240313054000 -0600" stop="20240313071000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240313071000 -0600" stop="20240313074000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240313074000 -0600" stop="20240313091000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240313091000 -0600" stop="20240313104000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240313104000 -0600" stop="20240313121000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Hicran</title>
+  </programme>
+  <programme start="20240313121000 -0600" stop="20240313135000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240313135000 -0600" stop="20240313152000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20240313152000 -0600" stop="20240313161000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240313161000 -0600" stop="20240313170000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240313170000 -0600" stop="20240313183000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240313183000 -0600" stop="20240313200000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240313200000 -0600" stop="20240313210000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">¡Qué buena hora!</title>
+  </programme>
+  <programme start="20240313210000 -0600" stop="20240313223000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240313223000 -0600" stop="20240313233000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20240313233000 -0600" stop="20240314011000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240314011000 -0600" stop="20240314014000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240314014000 -0600" stop="20240314023000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240314023000 -0600" stop="20240314033000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240314033000 -0600" stop="20240314043500 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Esto ya es personal</title>
+  </programme>
+  <programme start="20240314043500 -0600" stop="20240314054000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20240314054000 -0600" stop="20240314071000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240314071000 -0600" stop="20240314074000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240314074000 -0600" stop="20240314091000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240314091000 -0600" stop="20240314104000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240314104000 -0600" stop="20240314121000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Hicran</title>
+  </programme>
+  <programme start="20240314121000 -0600" stop="20240314135000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240314135000 -0600" stop="20240314152000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20240314152000 -0600" stop="20240314161000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240314161000 -0600" stop="20240314170000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240314170000 -0600" stop="20240314183000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20240314183000 -0600" stop="20240314200000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20240314200000 -0600" stop="20240314210000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">¡Qué buena hora!</title>
+  </programme>
+  <programme start="20240314210000 -0600" stop="20240314223000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20240314223000 -0600" stop="20240314233000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20240314233000 -0600" stop="20240315003000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Faisy nights</title>
+  </programme>
+  <programme start="20240315003000 -0600" stop="20240315012000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20240315012000 -0600" stop="20240315015000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Universo Unicable</title>
+  </programme>
+  <programme start="20240315015000 -0600" stop="20240315024000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20240315024000 -0600" stop="20240315034000 -0600" channel="Canal Unicable (México)">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+</tv>
