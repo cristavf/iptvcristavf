@@ -9,37 +9,37 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Otros Canales" tvg-id=""Canal ADN 40", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-shift="-3" group-title="TV1" tvg-id="Canal Cinecanal (México)",Cinecanal
+#EXTINF:-1 group-title="TV1" tvg-id="Canal Cinecanal (México)",Cinecanal
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=27
-#EXTINF:-1 tvg-shift="-3" group-title="TV1",Cinemax
+#EXTINF:-1 group-title="TV1",Cinemax
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=28
-#EXTINF:-1 tvg-shift="-3" group-title="TV1",History 2
+#EXTINF:-1 group-title="TV1",History 2
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=178
-#EXTINF:-1 tvg-shift="-3" group-title="TV1",History Channel
+#EXTINF:-1 group-title="TV1",History Channel
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=44
-#EXTINF:-1 tvg-shift="-3" group-title="TV1" tvg-id="Canal 2 de México (Canal Las Estrellas - XEW) ",Las Estrellas
+#EXTINF:-1 group-title="TV1" tvg-id="Canal 2 de México (Canal Las Estrellas - XEW) ",Las Estrellas
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=4319
-#EXTINF:-1 tvg-shift="-3" group-title="TV1" tvg-id="Canal Space (México)",Space
+#EXTINF:-1 group-title="TV1" tvg-id="Canal Space (México)",Space
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=35
-#EXTINF:-1 tvg-shift="-3" group-title="TV1" tvg-id="Canal TNT",TNT
+#EXTINF:-1 group-title="TV1" tvg-id="Canal TNT",TNT
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=26
-#EXTINF:-1  group-title="Vix" tvg-id="Canal 5 de México (XHGC)",  Canal 5 (Mx)
+#EXTINF:-1 group-title="Vix" tvg-id="Canal 5 de México (XHGC)",  Canal 5 (Mx)
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix" tvg-id="Canal Distrito Comedia",  Distrito Comedia
+#EXTINF:-1 group-title="Vix" tvg-id="Canal Distrito Comedia",  Distrito Comedia
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix" tvg-id="Canal De Película",  Dpeliculas
+#EXTINF:-1 group-title="Vix" tvg-id="Canal De Película",  Dpeliculas
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix" tvg-id="Canal Golden Edge",  Golden Edge Sd
+#EXTINF:-1 group-title="Vix" tvg-id="Canal Golden Edge",  Golden Edge Sd
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Golden Plus
+#EXTINF:-1 group-title="Vix",  Golden Plus
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix" tvg-id="Canal 2 de México (Canal Las Estrellas - XEW) ",  Las Estrellas
+#EXTINF:-1 group-title="Vix" tvg-id="Canal 2 de México (Canal Las Estrellas - XEW) ",  Las Estrellas
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  GOlden
+#EXTINF:-1 group-title="Vix",  GOlden
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Tv Venta
+#EXTINF:-1 group-title="Vix",  Tv Venta
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix" tvg-id="Canal Unicable (México)",  Unicable
+#EXTINF:-1 group-title="Vix" tvg-id="Canal Unicable (México)",  Unicable
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Vecinos
+#EXTINF:-1 group-title="Vix",  Vecinos
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
